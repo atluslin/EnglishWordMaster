@@ -1,0 +1,4691 @@
+[
+ {
+    "word": "director",
+    "phonetic": "/dəˈrektə(r)/; /daɪˈrektə(r)/",
+    "meaning": "导演",
+    "unit": 1,
+    "page": 2,
+    "exampleSentence": "The famous director won an award for his new movie.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "postman",
+    "phonetic": "/ˈpəʊstmən/",
+    "meaning": "邮递员，邮差",
+    "unit": 1,
+    "page": 2,
+    "exampleSentence": "The postman delivers mail to our house every morning.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "builder",
+    "phonetic": "/ˈbɪldə(r)/",
+    "meaning": "建筑工人",
+    "unit": 1,
+    "page": 2,
+    "exampleSentence": "The builder is working on a new house down the street.",
+    "difficulty": "extension"
+  },
+  {
+    "word": "artist",
+    "phonetic": "/ˈɑːtɪst/; /ˈɑːrtɪst/",
+    "meaning": "艺术家；（尤指）画家",
+    "unit": 1,
+    "page": 2,
+    "exampleSentence": "She is a talented artist who paints beautiful landscapes.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "guide",
+    "phonetic": "/ɡaɪd/",
+    "meaning": "导游；指南；指引；指导",
+    "unit": 1,
+    "page": 2,
+    "exampleSentence": "Our tour guide showed us the most famous places in the city.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "pilot",
+    "phonetic": "/ˈpaɪlət/",
+    "meaning": "飞行员",
+    "unit": 1,
+    "page": 2,
+    "exampleSentence": "The pilot flew the plane safely through the storm.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "scientist",
+    "phonetic": "/ˈsaɪəntɪst/",
+    "meaning": "科学家；科研人员",
+    "unit": 1,
+    "page": 2,
+    "exampleSentence": "The scientist is doing experiments in the laboratory.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "send",
+    "phonetic": "/send/",
+    "meaning": "邮寄；发送；传达；派遣",
+    "unit": 1,
+    "page": 2,
+    "exampleSentence": "I will send you an email with the details.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "letter",
+    "phonetic": "/ˈletə(r)/",
+    "meaning": "信；信件",
+    "unit": 1,
+    "page": 2,
+    "exampleSentence": "I received a letter from my friend yesterday.",
+    "difficulty": "learned"
+  },
+  {
+    "word": "paint",
+    "phonetic": "/peɪnt/",
+    "meaning": "用颜料画",
+    "unit": 1,
+    "page": 2,
+    "exampleSentence": "She likes to paint pictures of flowers.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "eraser",
+    "phonetic": "/ɪˈreɪzə(r)/; /ɪˈreɪsər/",
+    "meaning": "橡皮",
+    "unit": 1,
+    "page": 3,
+    "exampleSentence": "Use an eraser to correct your mistake.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "tool",
+    "phonetic": "/tuːl/",
+    "meaning": "工具",
+    "unit": 1,
+    "page": 3,
+    "exampleSentence": "A hammer is a useful tool for building things.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "actor",
+    "phonetic": "/ˈæktə(r)/",
+    "meaning": "演员",
+    "unit": 1,
+    "page": 3,
+    "exampleSentence": "He wants to be an actor when he grows up.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "actress",
+    "phonetic": "/ˈæktrəs/",
+    "meaning": "女演员",
+    "unit": 1,
+    "page": 3,
+    "exampleSentence": "The actress gave a wonderful performance in the play.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "direction",
+    "phonetic": "/dəˈrekʃn/; /daɪˈrekʃn/",
+    "meaning": "指导；方向",
+    "unit": 1,
+    "page": 3,
+    "exampleSentence": "Which direction should we go, left or right?",
+    "difficulty": "extension"
+  },
+  {
+    "word": "produce",
+    "phonetic": "/prəˈdjuːs/; /prəˈduːs/",
+    "meaning": "制作；拍摄",
+    "unit": 1,
+    "page": 3,
+    "exampleSentence": "They produce fresh vegetables on their farm.",
+    "difficulty": "extension"
+  },
+  {
+    "word": "believe",
+    "phonetic": "/bɪˈliːv/",
+    "meaning": "相信；把（某事）当真",
+    "unit": 1,
+    "page": 3,
+    "exampleSentence": "I believe that we can win the game.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "sick",
+    "phonetic": "/sɪk/",
+    "meaning": "生病的",
+    "unit": 1,
+    "page": 4,
+    "exampleSentence": "He felt sick so he stayed home from school.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "thanks",
+    "phonetic": "/θæŋks/",
+    "meaning": "谢谢，多谢；感谢；谢意",
+    "unit": 1,
+    "page": 4,
+    "exampleSentence": "Thanks for helping me with my homework.",
+    "difficulty": "extension"
+  },
+  {
+    "word": "vet",
+    "phonetic": "/vet/",
+    "meaning": "兽医",
+    "unit": 1,
+    "page": 4,
+    "exampleSentence": "We took our dog to the vet because he wasn't eating.",
+    "difficulty": "extension"
+  },
+  {
+    "word": "excellent",
+    "phonetic": "/ˈeksələnt/",
+    "meaning": "优秀的；杰出的；极好的",
+    "unit": 1,
+    "page": 4,
+    "exampleSentence": "She did an excellent job on her project.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "dancer",
+    "phonetic": "/ˈdɑːnsə(r)/; /ˈdænsər/",
+    "meaning": "舞蹈演员；跳舞者",
+    "unit": 1,
+    "page": 4,
+    "exampleSentence": "The dancer moved gracefully across the stage.",
+    "difficulty": "extension"
+  },
+  {
+    "word": "lively",
+    "phonetic": "/ˈlaɪvli/",
+    "meaning": "活跃热情的；精力充沛的",
+    "unit": 1,
+    "page": 4,
+    "exampleSentence": "The class had a lively discussion about the book.",
+    "difficulty": "extension"
+  },
+  {
+    "word": "news",
+    "phonetic": "/njuːz/; /nuːz/",
+    "meaning": "新闻；消息",
+    "unit": 1,
+    "page": 4,
+    "exampleSentence": "I watched the news on TV last night.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "reporter",
+    "phonetic": "/rɪˈpɔːtə(r)/; /rɪˈpɔːrtər/",
+    "meaning": "记者",
+    "unit": 1,
+    "page": 4,
+    "exampleSentence": "The reporter interviewed the mayor about the new park.",
+    "difficulty": "extension"
+  },
+  {
+    "word": "maybe",
+    "phonetic": "/ˈmeɪbi/",
+    "meaning": "或许",
+    "unit": 1,
+    "page": 4,
+    "exampleSentence": "Maybe we can go to the cinema tomorrow.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "report",
+    "phonetic": "/rɪˈpɔːt/; /rɪˈpɔːrt/",
+    "meaning": "报道",
+    "unit": 1,
+    "page": 4,
+    "exampleSentence": "He wrote a report on the school sports day.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "blind",
+    "phonetic": "/blaɪnd/",
+    "meaning": "瞎的；失明的",
+    "unit": 1,
+    "page": 6,
+    "exampleSentence": "The blind man used a cane to help him walk.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "patient",
+    "phonetic": "/ˈpeɪʃnt/",
+    "meaning": "病人；有耐心的",
+    "unit": 1,
+    "page": 6,
+    "exampleSentence": "The doctor examined the patient carefully.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "railway",
+    "phonetic": "/ˈreɪlweɪ/",
+    "meaning": "铁路；铁道",
+    "unit": 1,
+    "page": 6,
+    "exampleSentence": "They traveled by railway across the country.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "modern",
+    "phonetic": "/ˈmɒdn/; /ˈmɑːdərn/",
+    "meaning": "现代的；当代的；近代的",
+    "unit": 1,
+    "page": 7,
+    "exampleSentence": "This building has a very modern design.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "future",
+    "phonetic": "/ˈfjuːtʃə(r)/",
+    "meaning": "将来；未来",
+    "unit": 1,
+    "page": 7,
+    "exampleSentence": "I hope to visit space in the future.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "alarm",
+    "phonetic": "/əˈlɑːm/; /əˈlɑːrm/",
+    "meaning": "警报；闹铃",
+    "unit": 1,
+    "page": 7,
+    "exampleSentence": "I set my alarm for 7 o'clock.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "receive",
+    "phonetic": "/rɪˈsiːv/",
+    "meaning": "受到，收到",
+    "unit": 1,
+    "page": 7,
+    "exampleSentence": "Did you receive the package I sent?",
+    "difficulty": "basic"
+  },
+  {
+    "word": "sofa",
+    "phonetic": "/ˈsəʊfə/",
+    "meaning": "沙发",
+    "unit": 1,
+    "page": 7,
+    "exampleSentence": "We sat on the sofa to watch the movie.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "fireman",
+    "phonetic": "/ˈfaɪəmən/; /faɪərmən/",
+    "meaning": "消防队员",
+    "unit": 1,
+    "page": 7,
+    "exampleSentence": "The fireman climbed the ladder to save the cat.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "uniform",
+    "phonetic": "/ˈjuːnɪfɔːm/; /ˈjuːnɪfɔːrm/",
+    "meaning": "制服；校服",
+    "unit": 1,
+    "page": 7,
+    "exampleSentence": "Students must wear a school uniform.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "rush",
+    "phonetic": "/rʌʃ/",
+    "meaning": "迅速移动",
+    "unit": 1,
+    "page": 7,
+    "exampleSentence": "Don't rush, we have plenty of time.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "dangerous",
+    "phonetic": "/ˈdeɪndʒərəs/",
+    "meaning": "有危险的",
+    "unit": 1,
+    "page": 7,
+    "exampleSentence": "It is dangerous to swim in the river alone.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "brave",
+    "phonetic": "/breɪv/",
+    "meaning": "勇敢的",
+    "unit": 1,
+    "page": 7,
+    "exampleSentence": "The brave firefighter saved the child from the fire.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "tiny",
+    "phonetic": "/ˈtaɪni/",
+    "meaning": "极小的；微小的",
+    "unit": 1,
+    "page": 8,
+    "exampleSentence": "Wait a tiny moment, I'm almost ready.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "taikonaut",
+    "phonetic": "/ˈtaɪkənɔːt/",
+    "meaning": "（中国的）航天员",
+    "unit": 1,
+    "page": 8,
+    "exampleSentence": "The taikonaut waved to the camera from space.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "pioneer",
+    "phonetic": "/ˌpaɪəˈnɪə(r)/; /ˌpaɪəˈnɪr/",
+    "meaning": "先锋；带头人；开发者",
+    "unit": 1,
+    "page": 8,
+    "exampleSentence": "He was a pioneer in the field of computer science.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "journey",
+    "phonetic": "/ˈdʒɜːni/; /ˈdʒɜːrni/",
+    "meaning": "（尤指长途）旅行",
+    "unit": 1,
+    "page": 8,
+    "exampleSentence": "They went on a long journey across Asia.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "training",
+    "phonetic": "/ˈtreɪnɪŋ/",
+    "meaning": "训练；培训",
+    "unit": 1,
+    "page": 8,
+    "exampleSentence": "The athletes are in strict training for the Olympics.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "without",
+    "phonetic": "/wɪˈðaʊt/",
+    "meaning": "没有；缺乏",
+    "unit": 1,
+    "page": 8,
+    "exampleSentence": "I cannot drink tea without sugar.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "ready",
+    "phonetic": "/ˈredi/",
+    "meaning": "准备好",
+    "unit": 1,
+    "page": 8,
+    "exampleSentence": "Are you ready to go now?",
+    "difficulty": "basic"
+  },
+  {
+    "word": "nearly",
+    "phonetic": "/ˈnɪəli/; /ˈnɪrli/",
+    "meaning": "差不多；将近",
+    "unit": 1,
+    "page": 8,
+    "exampleSentence": "It is nearly time for lunch.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "chance",
+    "phonetic": "/tʃɑːns/; /tʃæns/",
+    "meaning": "机会；机遇",
+    "unit": 1,
+    "page": 8,
+    "exampleSentence": "If you work hard, you will have a chance to succeed.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "spaceship",
+    "phonetic": "/ˈspeɪsʃɪp/",
+    "meaning": "（航天）飞船",
+    "unit": 1,
+    "page": 8,
+    "exampleSentence": "The spaceship launched into the sky.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "succeed",
+    "phonetic": "/səkˈsiːd/",
+    "meaning": "成功；实现目标",
+    "unit": 1,
+    "page": 8,
+    "exampleSentence": "If you try hard, you will succeed.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "act",
+    "phonetic": "/ækt/",
+    "meaning": "行为；行动；所为；扮演",
+    "unit": 1,
+    "page": 9,
+    "exampleSentence": "Thinking before you act is very important.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "especially",
+    "phonetic": "/ɪˈspeʃəli/",
+    "meaning": "尤其；特别",
+    "unit": 1,
+    "page": 9,
+    "exampleSentence": "I like fruit, especially apples.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "quality",
+    "phonetic": "/ˈkwɒləti/; /ˈkwɑːləti/",
+    "meaning": "人品；素质；质量；优质的，高质量的",
+    "unit": 1,
+    "page": 9,
+    "exampleSentence": "This fabric is of very high quality.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "according to",
+    "phonetic": "/əˈkɔːdɪŋ tu/; /əˈkɔːrdɪŋ tu/",
+    "meaning": "据（……所说）；按（……所报道）",
+    "unit": 1,
+    "page": 9,
+    "exampleSentence": "According to the weather report, it will rain tomorrow.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "grandpa",
+    "phonetic": "/ˈɡrænpɑː/",
+    "meaning": "爷爷；姥爷",
+    "unit": 1,
+    "page": 10,
+    "exampleSentence": "My grandpa tells great stories about the old days.",
+    "difficulty": "learned"
+  },
+  {
+    "word": "piano",
+    "phonetic": "/piˈænəʊ/",
+    "meaning": "钢琴",
+    "unit": 1,
+    "page": 10,
+    "exampleSentence": "She practices playing the piano every afternoon.",
+    "difficulty": "learned"
+  },
+  {
+    "word": "interested",
+    "phonetic": "/ˈɪntrəstɪd/; /ˈɪntrestɪd/",
+    "meaning": "感兴趣的；关心的",
+    "unit": 1,
+    "page": 10,
+    "exampleSentence": "I am interested in learning more about history.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "direct",
+    "phonetic": "/dəˈrekt/; /daɪˈrekt/",
+    "meaning": "导演；指挥；直接的",
+    "unit": 1,
+    "page": 10,
+    "exampleSentence": "Is there a direct flight to London?",
+    "difficulty": "basic"
+  },
+  {
+    "word": "movie",
+    "phonetic": "/ˈmuːvi/",
+    "meaning": "电影",
+    "unit": 1,
+    "page": 10,
+    "exampleSentence": "We went to the cinema to see a new movie.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "illness",
+    "phonetic": "/ˈɪlnəs/",
+    "meaning": "（身体或精神上的）疾病，病",
+    "unit": 1,
+    "page": 10,
+    "exampleSentence": "He missed school because of a sudden illness.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "explorer",
+    "phonetic": "/ɪkˈsplɔːrə(r)/",
+    "meaning": "探险者",
+    "unit": 1,
+    "page": 10,
+    "exampleSentence": "The explorer discovered a new island.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "curious",
+    "phonetic": "/ˈkjʊəriəs/; /ˈkjʊriəs/",
+    "meaning": "求知欲强的；好奇的",
+    "unit": 1,
+    "page": 10,
+    "exampleSentence": "Cats are very curious animals.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "secret",
+    "phonetic": "/ˈsiːkrət/",
+    "meaning": "秘密",
+    "unit": 1,
+    "page": 10,
+    "exampleSentence": "Can you keep a secret?",
+    "difficulty": "basic"
+  },
+  {
+    "word": "tomorrow",
+    "phonetic": "/təˈmɒrəʊ/; /təˈmɑːrəʊ/",
+    "meaning": "在明天；在明日；明天；明日",
+    "unit": 1,
+    "page": 11,
+    "exampleSentence": "I have an important exam tomorrow.",
+    "difficulty": "learned"
+  },
+  {
+    "word": "opinion",
+    "phonetic": "/əˈpɪnjən/",
+    "meaning": "意见；想法",
+    "unit": 1,
+    "page": 11,
+    "exampleSentence": "In my opinion, reading is very important.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "course",
+    "phonetic": "/kɔːs/; /kɔːrs/",
+    "meaning": "课程；进程",
+    "unit": 1,
+    "page": 11,
+    "exampleSentence": "I am taking a course in English literature.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "officer",
+    "phonetic": "/ˈɒfɪsə(r)/; /ˈɑːfɪsər/",
+    "meaning": "高级职员，官员；军官",
+    "unit": 1,
+    "page": 11,
+    "exampleSentence": "The police officer helped us cross the street.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "vote",
+    "phonetic": "/vəʊt/",
+    "meaning": "投票；选出",
+    "unit": 1,
+    "page": 11,
+    "exampleSentence": "Everyone should vote in the election.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "choose",
+    "phonetic": "/tʃuːz/",
+    "meaning": "选择；挑选",
+    "unit": 1,
+    "page": 11,
+    "exampleSentence": "You can choose the color you like best.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "lawyer",
+    "phonetic": "/ˈlɔɪə(r)/",
+    "meaning": "律师",
+    "unit": 1,
+    "page": 11,
+    "exampleSentence": "She studied hard to become a lawyer.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "competition",
+    "phonetic": "/ˌkɒmpəˈtɪʃn/; /ˌkɑːmpəˈtɪʃn/",
+    "meaning": "比赛；竞赛",
+    "unit": 1,
+    "page": 11,
+    "exampleSentence": "He won first prize in the singing competition.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "encourage",
+    "phonetic": "/ɪnˈkʌrɪdʒ/; /ɪnˈkɜːrɪdʒ/",
+    "meaning": "鼓励；激励",
+    "unit": 1,
+    "page": 11,
+    "exampleSentence": "Teachers should encourage their students to ask questions.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "proud",
+    "phonetic": "/praʊd/",
+    "meaning": "骄傲的；自豪的",
+    "unit": 1,
+    "page": 11,
+    "exampleSentence": "Her parents were very proud of her achievements.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "success",
+    "phonetic": "/səkˈses/",
+    "meaning": "成功；胜利",
+    "unit": 1,
+    "page": 11,
+    "exampleSentence": "Hard work is the key to success.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "zookeeper",
+    "phonetic": "/ˈzuːkiːpə(r)/",
+    "meaning": "动物园管理员",
+    "unit": 1,
+    "page": 12,
+    "exampleSentence": "The zookeeper feeds the animals every day.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "achieve",
+    "phonetic": "/əˈtʃiːv/",
+    "meaning": "（凭长期努力）达到（某目标、地位、标准）；完成；成功",
+    "unit": 1,
+    "page": 12,
+    "exampleSentence": "You can achieve your goals if you work hard.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "design",
+    "phonetic": "/dɪˈzaɪn/",
+    "meaning": "设计；构思；计划；设计方案",
+    "unit": 1,
+    "page": 13,
+    "exampleSentence": "She wants to design clothes when she is older.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "model",
+    "phonetic": "/ˈmɒdl/; /ˈmɑːdl/",
+    "meaning": "模型；模特儿",
+    "unit": 1,
+    "page": 13,
+    "exampleSentence": "He built a model of an airplane.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "scientific",
+    "phonetic": "/ˌsaɪənˈtɪfɪk/",
+    "meaning": "科学（上）的",
+    "unit": 1,
+    "page": 13,
+    "exampleSentence": "They are doing scientific research.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "knowledge",
+    "phonetic": "/ˈnɒlɪdʒ/; /ˈnɑːlɪdʒ/",
+    "meaning": "知识；学问",
+    "unit": 1,
+    "page": 13,
+    "exampleSentence": "Reading helps you gain more knowledge.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "challenge",
+    "phonetic": "/ˈtʃælɪndʒ/",
+    "meaning": "挑战",
+    "unit": 1,
+    "page": 13,
+    "exampleSentence": "Climbing the mountain was a big challenge.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "however",
+    "phonetic": "/haʊˈevə(r)/",
+    "meaning": "然而",
+    "unit": 1,
+    "page": 13,
+    "exampleSentence": "I wanted to go out; however, it started to rain.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "shelf",
+    "phonetic": "/ʃelf/",
+    "meaning": "架子，搁板",
+    "unit": 1,
+    "page": 15,
+    "exampleSentence": "Please put the book back on the shelf.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "reader",
+    "phonetic": "/ˈriːdə(r)/",
+    "meaning": "读者",
+    "unit": 1,
+    "page": 15,
+    "exampleSentence": "This book is popular with young readers.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "record",
+    "phonetic": "/ˈrekɔːd/; /ˈrekərd/",
+    "meaning": "记录；记载",
+    "unit": 1,
+    "page": 15,
+    "exampleSentence": "Keep a record of how much you spend.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "dentist",
+    "phonetic": "/ˈdentɪst/",
+    "meaning": "牙科医生",
+    "unit": 1,
+    "page": 16,
+    "exampleSentence": "You should visit the dentist twice a year.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "reason",
+    "phonetic": "/ˈriːzn/",
+    "meaning": "原因；理由",
+    "unit": 1,
+    "page": 16,
+    "exampleSentence": "What is the reason for your absence?",
+    "difficulty": "basic"
+  },
+  {
+    "word": "research",
+    "phonetic": "/rɪˈsɜːtʃ/; /riˈsɜːrtʃ/",
+    "meaning": "研究；调查",
+    "unit": 1,
+    "page": 16,
+    "exampleSentence": "Scientists are doing research on the disease.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "tourist",
+    "phonetic": "/ˈtʊərɪst/; /ˈtʊrɪst/",
+    "meaning": "游客",
+    "unit": 1,
+    "page": 16,
+    "exampleSentence": "Many tourists visit the Great Wall every year.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "speech",
+    "phonetic": "/spiːtʃ/",
+    "meaning": "演说；讲话",
+    "unit": 1,
+    "page": 17,
+    "exampleSentence": "The president gave a long speech.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "term",
+    "phonetic": "/tɜːm/; /tɜːrm/",
+    "meaning": "学期",
+    "unit": 1,
+    "page": 17,
+    "exampleSentence": "We have exams at the end of the term.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "waitress",
+    "phonetic": "/ˈweɪtrəs/",
+    "meaning": "女服务员",
+    "unit": 1,
+    "page": 17,
+    "exampleSentence": "The waitress took our order at the restaurant.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "greet",
+    "phonetic": "/ɡriːt/",
+    "meaning": "和（某人）打招呼（或问好）；欢迎；迎接",
+    "unit": 1,
+    "page": 17,
+    "exampleSentence": "He greeted me with a warm smile.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "guest",
+    "phonetic": "/ɡest/",
+    "meaning": "客人；宾客",
+    "unit": 1,
+    "page": 17,
+    "exampleSentence": "We are expecting a guest for dinner.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "smile",
+    "phonetic": "/smaɪl/",
+    "meaning": "微笑",
+    "unit": 1,
+    "page": 17,
+    "exampleSentence": "She gave me a friendly smile.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "lead",
+    "phonetic": "/liːd/",
+    "meaning": "带路；领路",
+    "unit": 1,
+    "page": 17,
+    "exampleSentence": "He will lead the team to victory.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "boring",
+    "phonetic": "/ˈbɔːrɪŋ/",
+    "meaning": "没趣的；令人厌倦（或厌烦）的",
+    "unit": 1,
+    "page": 17,
+    "exampleSentence": "The movie was so boring I fell asleep.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "customer",
+    "phonetic": "/ˈkʌstəmə(r)/",
+    "meaning": "顾客",
+    "unit": 1,
+    "page": 17,
+    "exampleSentence": "The shop assistant helped the customer find the right size.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "conversation",
+    "phonetic": "/ˌkɒnvəˈseɪʃn/; /ˌkɑːnvərˈseɪʃn/",
+    "meaning": "交谈，谈话",
+    "unit": 1,
+    "page": 17,
+    "exampleSentence": "We had an interesting conversation about music.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "manager",
+    "phonetic": "/ˈmænɪdʒə(r)/",
+    "meaning": "经理",
+    "unit": 1,
+    "page": 17,
+    "exampleSentence": "I need to speak to the manager about a problem.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "noisy",
+    "phonetic": "/ˈnɔɪzi/",
+    "meaning": "吵闹的；充满噪声的",
+    "unit": 1,
+    "page": 17,
+    "exampleSentence": "The street is very noisy with all the traffic.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "simple",
+    "phonetic": "/ˈsɪmpl/",
+    "meaning": "简单的；易做的",
+    "unit": 1,
+    "page": 17,
+    "exampleSentence": "The instructions were simple to follow.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "successful",
+    "phonetic": "/səkˈsesfl/",
+    "meaning": "获得成功的；有成就的",
+    "unit": 1,
+    "page": 17,
+    "exampleSentence": "She is a very successful writer.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "literature",
+    "phonetic": "/ˈlɪtrətʃə(r)/",
+    "meaning": "文学；文学作品",
+    "unit": 2,
+    "page": 20,
+    "exampleSentence": "He studies English literature at university.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "calligraphy",
+    "phonetic": "/kəˈlɪɡrəfi/",
+    "meaning": "书法；书法艺术",
+    "unit": 2,
+    "page": 20,
+    "exampleSentence": "Chinese calligraphy is a beautiful art form.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "swan",
+    "phonetic": "/swɒn/; /swɑːn/",
+    "meaning": "天鹅",
+    "unit": 2,
+    "page": 20,
+    "exampleSentence": "A white swan swam across the lake.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "west",
+    "phonetic": "/west/",
+    "meaning": "西；西方",
+    "unit": 2,
+    "page": 20,
+    "exampleSentence": "The sun sets in the west.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "teahouse",
+    "phonetic": "/ˈtiːhaʊs/",
+    "meaning": "茶馆",
+    "unit": 2,
+    "page": 20,
+    "exampleSentence": "We sat in the teahouse and drank tea.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "ballet",
+    "phonetic": "/ˈbæleɪ/; /bæˈleɪ/",
+    "meaning": "芭蕾舞剧；芭蕾舞",
+    "unit": 2,
+    "page": 20,
+    "exampleSentence": "She dreams of becoming a ballet dancer.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "century",
+    "phonetic": "/ˈsentʃəri/",
+    "meaning": "百年；世纪",
+    "unit": 2,
+    "page": 20,
+    "exampleSentence": "We live in the 21st century.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "express",
+    "phonetic": "/ɪkˈspres/",
+    "meaning": "表达",
+    "unit": 2,
+    "page": 20,
+    "exampleSentence": "Words cannot express how happy I am.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "spirit",
+    "phonetic": "/ˈspɪrɪt/",
+    "meaning": "精神；情绪",
+    "unit": 2,
+    "page": 20,
+    "exampleSentence": "The team showed great spirit in the game.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "classic",
+    "phonetic": "/ˈklæsɪk/",
+    "meaning": "最优秀的；有代表性的；传统的",
+    "unit": 2,
+    "page": 20,
+    "exampleSentence": "This car is a classic design from the 1960s.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "novel",
+    "phonetic": "/ˈnɒvl/; /ˈnɑːvl/",
+    "meaning": "小说",
+    "unit": 2,
+    "page": 20,
+    "exampleSentence": "I am reading a very interesting novel.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "oil",
+    "phonetic": "/ɔɪl/",
+    "meaning": "（绘画用）油彩；石油；原油",
+    "unit": 2,
+    "page": 20,
+    "exampleSentence": "The artist used oil paints for his masterpiece.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "calligrapher",
+    "phonetic": "/kəˈlɪɡrəfə(r)/",
+    "meaning": "书法家",
+    "unit": 2,
+    "page": 20,
+    "exampleSentence": "The famous calligrapher wrote a poem on the scroll.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "ancient",
+    "phonetic": "/ˈeɪnʃənt/",
+    "meaning": "古代的；古老的",
+    "unit": 2,
+    "page": 21,
+    "exampleSentence": "They visited the ancient ruins in Rome.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "photography",
+    "phonetic": "/fəˈtɒɡrəfi/; /fəˈtɑːɡrəfi/",
+    "meaning": "摄影；摄影艺术",
+    "unit": 2,
+    "page": 21,
+    "exampleSentence": "He has a great interest in photography.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "wood",
+    "phonetic": "/wʊd/",
+    "meaning": "木；木头；木柴",
+    "unit": 2,
+    "page": 22,
+    "exampleSentence": "The table is made of solid wood.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "sand",
+    "phonetic": "/sænd/",
+    "meaning": "沙；沙子",
+    "unit": 2,
+    "page": 22,
+    "exampleSentence": "Children love playing in the sand at the beach.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "correct",
+    "phonetic": "/kəˈrekt/",
+    "meaning": "准确无误的；正确的",
+    "unit": 2,
+    "page": 22,
+    "exampleSentence": "Is this the correct answer to the question?",
+    "difficulty": "basic"
+  },
+  {
+    "word": "wow",
+    "phonetic": "/waʊ/",
+    "meaning": "哇，呀",
+    "unit": 2,
+    "page": 22,
+    "exampleSentence": "Wow! That firework was amazing!",
+    "difficulty": "basic"
+  },
+  {
+    "word": "pity",
+    "phonetic": "/ˈpɪti/",
+    "meaning": "遗憾，可惜",
+    "unit": 2,
+    "page": 22,
+    "exampleSentence": "It's a pity that you can't come to the party.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "type",
+    "phonetic": "/taɪp/",
+    "meaning": "类型，种类；典型；字体",
+    "unit": 2,
+    "page": 24,
+    "exampleSentence": "What type of music do you like?",
+    "difficulty": "basic"
+  },
+  {
+    "word": "musical",
+    "phonetic": "/ˈmjuːzɪkl/",
+    "meaning": "音乐的",
+    "unit": 2,
+    "page": 24,
+    "exampleSentence": "She plays several musical instruments.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "instrument",
+    "phonetic": "/ˈɪnstrəmənt/",
+    "meaning": "乐器；仪器；工具",
+    "unit": 2,
+    "page": 24,
+    "exampleSentence": "The piano is a popular musical instrument.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "string",
+    "phonetic": "/strɪŋ/",
+    "meaning": "弦",
+    "unit": 2,
+    "page": 24,
+    "exampleSentence": "The guitar has six strings.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "beat",
+    "phonetic": "/biːt/",
+    "meaning": "一击，击打；节拍",
+    "unit": 2,
+    "page": 24,
+    "exampleSentence": "The drum has a steady beat.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "keyboard",
+    "phonetic": "/ˈkiːbɔːd/; /ˈkiːbɔːrd/",
+    "meaning": "琴键；键盘",
+    "unit": 2,
+    "page": 24,
+    "exampleSentence": "He typed the message on the keyboard.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "violin",
+    "phonetic": "/ˌvaɪəˈlɪn/",
+    "meaning": "小提琴",
+    "unit": 2,
+    "page": 24,
+    "exampleSentence": "She practices the violin every day.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "belong",
+    "phonetic": "/bɪˈlɒŋ/; /bɪˈlɔːŋ/",
+    "meaning": "应在（某处）；适应",
+    "unit": 2,
+    "page": 24,
+    "exampleSentence": "This book belongs on the top shelf.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "drum",
+    "phonetic": "/drʌm/",
+    "meaning": "鼓",
+    "unit": 2,
+    "page": 24,
+    "exampleSentence": "He plays the drum in the school band.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "trumpet",
+    "phonetic": "/ˈtrʌmpɪt/",
+    "meaning": "小号；喇叭",
+    "unit": 2,
+    "page": 24,
+    "exampleSentence": "The trumpet makes a loud, bright sound.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "language",
+    "phonetic": "/ˈlæŋɡwɪdʒ/",
+    "meaning": "语言",
+    "unit": 2,
+    "page": 24,
+    "exampleSentence": "English is a global language.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "allow",
+    "phonetic": "/əˈlaʊ/",
+    "meaning": "允许；使可能",
+    "unit": 2,
+    "page": 24,
+    "exampleSentence": "They do not allow smoking in the restaurant.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "communicate",
+    "phonetic": "/kəˈmjuːnɪkeɪt/",
+    "meaning": "交流；沟通",
+    "unit": 2,
+    "page": 24,
+    "exampleSentence": "We use email to communicate with our colleagues.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "feeling",
+    "phonetic": "/ˈfiːlɪŋ/",
+    "meaning": "感觉，感触；情感；想法",
+    "unit": 2,
+    "page": 24,
+    "exampleSentence": "I have a good feeling about this project.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "relax",
+    "phonetic": "/rɪˈlæks/",
+    "meaning": "（使）放松；放松精神（或思想）",
+    "unit": 2,
+    "page": 24,
+    "exampleSentence": "Listen to music to help you relax.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "afraid",
+    "phonetic": "/əˈfreɪd/",
+    "meaning": "害怕；担心",
+    "unit": 2,
+    "page": 24,
+    "exampleSentence": "Don't be afraid of the dark.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "medium",
+    "phonetic": "/ˈmiːdiəm/",
+    "meaning": "（传播信息等的）媒介，手段，方法",
+    "unit": 2,
+    "page": 24,
+    "exampleSentence": "TV is a powerful medium for advertising.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "eye",
+    "phonetic": "/aɪ/",
+    "meaning": "眼睛",
+    "unit": 2,
+    "page": 25,
+    "exampleSentence": "Keep your eye on the ball.",
+    "difficulty": "learned"
+  },
+  {
+    "word": "pigeon",
+    "phonetic": "/ˈpɪdʒɪn/",
+    "meaning": "鸽子",
+    "unit": 2,
+    "page": 25,
+    "exampleSentence": "There are many pigeons in the city square.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "opera",
+    "phonetic": "/ˈɒprə/; /ˈɑːprə/",
+    "meaning": "歌剧",
+    "unit": 2,
+    "page": 25,
+    "exampleSentence": "We went to see a famous Italian opera.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "strict",
+    "phonetic": "/strɪkt/",
+    "meaning": "要求严格的；严厉的；严谨的",
+    "unit": 2,
+    "page": 25,
+    "exampleSentence": "Our teacher is very strict about homework.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "perfect",
+    "phonetic": "/ˈpɜːfɪkt/; /ˈpɜːrfɪkt/",
+    "meaning": "完美的；极好的",
+    "unit": 2,
+    "page": 25,
+    "exampleSentence": "Wait for the perfect moment to take the photo.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "painter",
+    "phonetic": "/ˈpeɪntə(r)/",
+    "meaning": "画家；油漆匠",
+    "unit": 2,
+    "page": 25,
+    "exampleSentence": "Picasso was a famous painter.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "popular",
+    "phonetic": "/ˈpɒpjələ(r)/; /ˈpɑːpjələr/",
+    "meaning": "大众喜爱的；广受欢迎的；大众（化）的",
+    "unit": 2,
+    "page": 25,
+    "exampleSentence": "Soccer is a popular sport in many countries.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "sentence",
+    "phonetic": "/ˈsentəns/",
+    "meaning": "句子；判决，宣判",
+    "unit": 2,
+    "page": 25,
+    "exampleSentence": "Write a sentence using the new vocabulary word.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "huge",
+    "phonetic": "/hjuːdʒ/",
+    "meaning": "巨大的；极多的",
+    "unit": 2,
+    "page": 26,
+    "exampleSentence": "There was a huge crowd at the concert.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "gate",
+    "phonetic": "/ɡeɪt/",
+    "meaning": "大门；栅栏门",
+    "unit": 2,
+    "page": 26,
+    "exampleSentence": "Please close the garden gate.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "tower",
+    "phonetic": "/ˈtaʊə(r)/",
+    "meaning": "塔；塔楼",
+    "unit": 2,
+    "page": 26,
+    "exampleSentence": "The Eiffel Tower is in Paris.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "value",
+    "phonetic": "/ˈvæljuː/",
+    "meaning": "重视；珍视; 价值",
+    "unit": 2,
+    "page": 26,
+    "exampleSentence": "This ring has great sentimental value.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "northern",
+    "phonetic": "/ˈnɔːðən/; /ˈnɔːrðərn/",
+    "meaning": "北方的；北部的",
+    "unit": 2,
+    "page": 26,
+    "exampleSentence": "It is colder in the northern part of the country.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "dynasty",
+    "phonetic": "/ˈdɪnəsti/; /ˈdaɪnəsti/",
+    "meaning": "王朝；朝代",
+    "unit": 2,
+    "page": 26,
+    "exampleSentence": "The Ming Dynasty was a famous period in Chinese history.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "amazing",
+    "phonetic": "/əˈmeɪzɪŋ/",
+    "meaning": "令人大为惊奇的；（尤指）令人惊喜的",
+    "unit": 2,
+    "page": 26,
+    "exampleSentence": "The view from the top of the mountain was amazing.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "centimetre",
+    "phonetic": "/ˈsentɪmiːtə(r)/",
+    "meaning": "厘米",
+    "unit": 2,
+    "page": 26,
+    "exampleSentence": "The pencil is about 15 centimetres long.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "pull",
+    "phonetic": "/pʊl/",
+    "meaning": "拉；拖；拽",
+    "unit": 2,
+    "page": 26,
+    "exampleSentence": "Push the door, don't pull it.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "shout",
+    "phonetic": "/ʃaʊt/",
+    "meaning": "大声说；叫",
+    "unit": 2,
+    "page": 26,
+    "exampleSentence": "Don't shout, I can hear you clearly.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "riverside",
+    "phonetic": "/ˈrɪvəsaɪd/; /ˈrɪvərsaɪd/",
+    "meaning": "河畔；河岸",
+    "unit": 2,
+    "page": 26,
+    "exampleSentence": "They walked along the riverside.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "riverbank",
+    "phonetic": "/ˈrɪvəbæŋk/; /ˈrɪvərbæŋk/",
+    "meaning": "河堤；河岸",
+    "unit": 2,
+    "page": 26,
+    "exampleSentence": "We had a picnic on the riverbank.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "mark",
+    "phonetic": "/mɑːk/; /mɑːrk/",
+    "meaning": "标示；标明方位；做记号; 符号；记号",
+    "unit": 2,
+    "page": 26,
+    "exampleSentence": "X marks the spot on the map.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "businessman",
+    "phonetic": "/ˈbɪznəsmæn/",
+    "meaning": "商界人员；企业家",
+    "unit": 2,
+    "page": 26,
+    "exampleSentence": "He is a successful businessman.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "explore",
+    "phonetic": "/ɪkˈsplɔː(r)/",
+    "meaning": "探索；考察；勘探",
+    "unit": 2,
+    "page": 26,
+    "exampleSentence": "We decided to explore the city on foot.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "crowd",
+    "phonetic": "/kraʊd/",
+    "meaning": "人群；一伙人; 挤满",
+    "unit": 2,
+    "page": 27,
+    "exampleSentence": "A large crowd gathered to watch the parade.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "besides",
+    "phonetic": "/bɪˈsaɪdz/",
+    "meaning": "除……之外（还）; 而且；再说",
+    "unit": 2,
+    "page": 27,
+    "exampleSentence": "Besides apples, I also bought some oranges.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "nothing",
+    "phonetic": "/ˈnʌθɪŋ/",
+    "meaning": "没有什么；几乎什么也没有",
+    "unit": 2,
+    "page": 28,
+    "exampleSentence": "There is nothing in the box.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "anybody",
+    "phonetic": "/ˈenibɒdi/; /ˈenibɑːdi/",
+    "meaning": "任何人",
+    "unit": 2,
+    "page": 28,
+    "exampleSentence": "Is anybody home?",
+    "difficulty": "basic"
+  },
+  {
+    "word": "nobody",
+    "phonetic": "/ˈnəʊbədi/",
+    "meaning": "没有人；没有任何人",
+    "unit": 2,
+    "page": 28,
+    "exampleSentence": "Nobody knows the answer.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "anything",
+    "phonetic": "/ˈeniθɪŋ/",
+    "meaning": "任何东西，任何事物",
+    "unit": 2,
+    "page": 28,
+    "exampleSentence": "Do you need anything from the store?",
+    "difficulty": "basic"
+  },
+  {
+    "word": "harm",
+    "phonetic": "/hɑːm/; /hɑːrm/",
+    "meaning": "损害；伤害",
+    "unit": 2,
+    "page": 28,
+    "exampleSentence": "Too much sun can harm your skin.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "somewhere",
+    "phonetic": "/ˈsʌmweə(r)/; /'sʌmwer/",
+    "meaning": "在某处；到某处",
+    "unit": 2,
+    "page": 28,
+    "exampleSentence": "I left my keys somewhere in the house.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "someone",
+    "phonetic": "/ˈsʌmwʌn/",
+    "meaning": "某人",
+    "unit": 2,
+    "page": 28,
+    "exampleSentence": "Someone is knocking at the door.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "anywhere",
+    "phonetic": "/ˈeniweə(r)/; /ˈeniwer/",
+    "meaning": "任何地方",
+    "unit": 2,
+    "page": 28,
+    "exampleSentence": "I can't find my phone anywhere.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "create",
+    "phonetic": "/kriˈeɪt/",
+    "meaning": "创造",
+    "unit": 2,
+    "page": 28,
+    "exampleSentence": "Artists create beautiful works of art.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "magical",
+    "phonetic": "/ˈmædʒɪkl/",
+    "meaning": "有魔力的；奇妙的",
+    "unit": 2,
+    "page": 28,
+    "exampleSentence": "The forest looked magical in the moonlight.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "real",
+    "phonetic": "/ˈriːəl/; /rɪəl/",
+    "meaning": "实际存在的；真实的",
+    "unit": 2,
+    "page": 28,
+    "exampleSentence": "Is that a real diamond?",
+    "difficulty": "basic"
+  },
+  {
+    "word": "unknown",
+    "phonetic": "/ˌʌnˈnəʊn/",
+    "meaning": "未知的；无名的",
+    "unit": 2,
+    "page": 28,
+    "exampleSentence": "The cause of the fire is still unknown.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "anytime",
+    "phonetic": "/ˈeniˌtaɪm/",
+    "meaning": "在任何时候；随便什么时候",
+    "unit": 2,
+    "page": 28,
+    "exampleSentence": "You can call me anytime.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "magic",
+    "phonetic": "/ˈmædʒɪk/",
+    "meaning": "有魔力的；神奇的; 魔法；法术",
+    "unit": 2,
+    "page": 28,
+    "exampleSentence": "The magician performed a magic trick.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "impossible",
+    "phonetic": "/ɪmˈpɒsəbl/; /ɪmˈpɑːsəbl/",
+    "meaning": "不可能的",
+    "unit": 2,
+    "page": 28,
+    "exampleSentence": "It is impossible for humans to fly without help.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "concert",
+    "phonetic": "/ˈkɒnsət/; /ˈkɑːnsərt/",
+    "meaning": "音乐会",
+    "unit": 2,
+    "page": 29,
+    "exampleSentence": "We are going to a rock concert tonight.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "sweet",
+    "phonetic": "/swiːt/",
+    "meaning": "悦耳的；含糖的，甜的",
+    "unit": 2,
+    "page": 29,
+    "exampleSentence": "This cake tastes very sweet.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "fat",
+    "phonetic": "/fæt/",
+    "meaning": "肥的；肥胖的; 脂肪",
+    "unit": 2,
+    "page": 29,
+    "exampleSentence": "The cat is very fat.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "awful",
+    "phonetic": "/ˈɔːfl/",
+    "meaning": "很坏的；极讨厌的",
+    "unit": 2,
+    "page": 29,
+    "exampleSentence": "The weather today is awful.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "folk",
+    "phonetic": "/fəʊk/",
+    "meaning": "传统民间的；民俗的",
+    "unit": 2,
+    "page": 30,
+    "exampleSentence": "We listened to some traditional folk music.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "shape",
+    "phonetic": "/ʃeɪp/",
+    "meaning": "形状；外形",
+    "unit": 2,
+    "page": 30,
+    "exampleSentence": "The cloud has the shape of a dog.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "character",
+    "phonetic": "/ˈkærəktə(r)/",
+    "meaning": "文字；人物，角色；性格",
+    "unit": 2,
+    "page": 30,
+    "exampleSentence": "Chinese characters are very interesting to write.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "upside",
+    "phonetic": "/ˈʌpsaɪd/",
+    "meaning": "正面",
+    "unit": 2,
+    "page": 30,
+    "exampleSentence": "Look at the upside of the situation.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "symbol",
+    "phonetic": "/ˈsɪmbl/",
+    "meaning": "象征；符号",
+    "unit": 2,
+    "page": 30,
+    "exampleSentence": "The dove is a symbol of peace.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "clay",
+    "phonetic": "/kleɪ/",
+    "meaning": "黏土；陶土",
+    "unit": 2,
+    "page": 30,
+    "exampleSentence": "He made a pot out of clay.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "immediately",
+    "phonetic": "/ɪˈmiːdiətli/",
+    "meaning": "立即；马上；即刻",
+    "unit": 2,
+    "page": 31,
+    "exampleSentence": "Please call me back immediately.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "mask",
+    "phonetic": "/mɑːsk/; /mæsk/",
+    "meaning": "面具；面罩",
+    "unit": 2,
+    "page": 31,
+    "exampleSentence": "Everyone wore a mask to the costume party.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "role",
+    "phonetic": "/rəʊl/",
+    "meaning": "角色",
+    "unit": 2,
+    "page": 31,
+    "exampleSentence": "He played the role of the king in the play.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "style",
+    "phonetic": "/staɪl/",
+    "meaning": "方式；作风",
+    "unit": 2,
+    "page": 31,
+    "exampleSentence": "She has a unique style of dressing.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "among",
+    "phonetic": "/əˈmʌŋ/",
+    "meaning": "在……中",
+    "unit": 2,
+    "page": 31,
+    "exampleSentence": "He was standing among a group of friends.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "fan",
+    "phonetic": "/fæn/",
+    "meaning": "粉丝；风扇",
+    "unit": 2,
+    "page": 31,
+    "exampleSentence": "I am a big fan of that band.",
+    "difficulty": "learned"
+  },
+  {
+    "word": "pleasant",
+    "phonetic": "/ˈpleznt/",
+    "meaning": "愉快的；友好的",
+    "unit": 2,
+    "page": 31,
+    "exampleSentence": "We had a pleasant walk in the park.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "stadium",
+    "phonetic": "/ˈsteɪdiəm/",
+    "meaning": "体育场",
+    "unit": 2,
+    "page": 33,
+    "exampleSentence": "The football match was held in a large stadium.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "creative",
+    "phonetic": "/kriˈeɪtɪv/",
+    "meaning": "创造（性）的；创作的",
+    "unit": 2,
+    "page": 34,
+    "exampleSentence": "She is very creative and loves to draw.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "musician",
+    "phonetic": "/mjuˈzɪʃn/",
+    "meaning": "音乐家",
+    "unit": 2,
+    "page": 34,
+    "exampleSentence": "The musician played the piano beautifully.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "relaxed",
+    "phonetic": "/rɪˈlækst/",
+    "meaning": "放松的；自在的",
+    "unit": 2,
+    "page": 34,
+    "exampleSentence": "He felt relaxed after the holiday.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "operate",
+    "phonetic": "/ˈɒpəreɪt/; /ˈɑːpəreɪt/",
+    "meaning": "操作；运转；控制；动手术",
+    "unit": 2,
+    "page": 34,
+    "exampleSentence": "Do you know how to operate this machine?",
+    "difficulty": "basic"
+  },
+  {
+    "word": "control",
+    "phonetic": "/kənˈtrəʊl/",
+    "meaning": "指挥（或控制）站；控制",
+    "unit": 2,
+    "page": 34,
+    "exampleSentence": "The pilot lost control of the plane.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "electronic",
+    "phonetic": "/ɪˌlekˈtrɒnɪk/; /ɪˌlekˈtrɑːnɪk/",
+    "meaning": "电子的",
+    "unit": 2,
+    "page": 34,
+    "exampleSentence": "I prefer reading printed books to electronic ones.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "photographer",
+    "phonetic": "/fəˈtɒɡrəfə(r)/; /fəˈtɑːɡrəfər/",
+    "meaning": "摄影师；拍照者",
+    "unit": 2,
+    "page": 34,
+    "exampleSentence": "The photographer took pictures of the wedding.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "sportswoman",
+    "phonetic": "/ˈspɔːtswʊmən/",
+    "meaning": "女运动员",
+    "unit": 2,
+    "page": 35,
+    "exampleSentence": "She is a famous sportswoman.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "singer",
+    "phonetic": "/ˈsɪŋə(r)/",
+    "meaning": "歌唱家；歌手",
+    "unit": 2,
+    "page": 35,
+    "exampleSentence": "The singer has a beautiful voice.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "cough",
+    "phonetic": "/kɒf/; /kɔːf/",
+    "meaning": "咳嗽",
+    "unit": 3,
+    "page": 38,
+    "exampleSentence": "He has a bad cough.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "fever",
+    "phonetic": "/ˈfiːvə(r)/",
+    "meaning": "发烧",
+    "unit": 3,
+    "page": 38,
+    "exampleSentence": "She has a high fever.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "sore",
+    "phonetic": "/sɔː(r)/",
+    "meaning": "（发炎）疼痛的；酸痛的",
+    "unit": 3,
+    "page": 38,
+    "exampleSentence": "My throat is sore.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "throat",
+    "phonetic": "/θrəʊt/",
+    "meaning": "咽喉；喉咙",
+    "unit": 3,
+    "page": 38,
+    "exampleSentence": "The doctor checked my throat.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "headache",
+    "phonetic": "/ˈhedeɪk/",
+    "meaning": "头痛",
+    "unit": 3,
+    "page": 38,
+    "exampleSentence": "I have a terrible headache.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "toothache",
+    "phonetic": "/ˈtuːθeɪk/",
+    "meaning": "牙痛",
+    "unit": 3,
+    "page": 38,
+    "exampleSentence": "He went to the dentist because of a toothache.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "stomachache",
+    "phonetic": "/ˈstʌməkeɪk/",
+    "meaning": "胃痛",
+    "unit": 3,
+    "page": 38,
+    "exampleSentence": "She got a stomachache after eating too much candy.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "temperature",
+    "phonetic": "/ˈtemprətʃə(r)/; /ˈtemprətʃʊr/",
+    "meaning": "体温；温度；气温",
+    "unit": 3,
+    "page": 38,
+    "exampleSentence": "The nurse took his temperature.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "medicine",
+    "phonetic": "/ˈmedsn/; /ˈmedɪsn/",
+    "meaning": "药，药物；医学",
+    "unit": 3,
+    "page": 38,
+    "exampleSentence": "You should take your medicine on time.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "junk food",
+    "phonetic": "",
+    "meaning": "垃圾食品",
+    "unit": 3,
+    "page": 38,
+    "exampleSentence": "Eating too much junk food is bad for your health.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "slim",
+    "phonetic": "/slɪm/",
+    "meaning": "苗条的",
+    "unit": 3,
+    "page": 39,
+    "exampleSentence": "She keeps slim by exercising regularly.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "diet",
+    "phonetic": "/ˈdaɪət/",
+    "meaning": "日常饮食",
+    "unit": 3,
+    "page": 39,
+    "exampleSentence": "A healthy diet is important.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "screen",
+    "phonetic": "/skriːn/",
+    "meaning": "屏幕；荧屏",
+    "unit": 3,
+    "page": 39,
+    "exampleSentence": "He stared at the computer screen all day.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "sugar",
+    "phonetic": "/ˈʃʊɡə(r)/",
+    "meaning": "糖；食糖",
+    "unit": 3,
+    "page": 39,
+    "exampleSentence": "Do you take sugar in your coffee?",
+    "difficulty": "basic"
+  },
+  {
+    "word": "ache",
+    "phonetic": "/eɪk/",
+    "meaning": "（身体某部位的）疼痛",
+    "unit": 3,
+    "page": 40,
+    "exampleSentence": "My legs ache after the long run.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "examine",
+    "phonetic": "/ɪɡˈzæmɪn/",
+    "meaning": "检查，检验；审查",
+    "unit": 3,
+    "page": 40,
+    "exampleSentence": "The doctor will examine you now.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "hamburger",
+    "phonetic": "/ˈhæmbɜːɡə(r)/; /ˈhæmbɜːrɡər/",
+    "meaning": "汉堡包",
+    "unit": 3,
+    "page": 40,
+    "exampleSentence": "I ordered a hamburger and fries.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "chip",
+    "phonetic": "/tʃɪp/",
+    "meaning": "炸薯条",
+    "unit": 3,
+    "page": 40,
+    "exampleSentence": "He ate a chip from my plate.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "fried",
+    "phonetic": "/fraɪd/",
+    "meaning": "油炸的",
+    "unit": 3,
+    "page": 40,
+    "exampleSentence": "I like fried chicken.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "pork",
+    "phonetic": "/pɔːk/; /pɔːrk/",
+    "meaning": "猪肉",
+    "unit": 3,
+    "page": 40,
+    "exampleSentence": "We are having roast pork for dinner.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "pepper",
+    "phonetic": "/ˈpepə(r)/",
+    "meaning": "胡椒粉",
+    "unit": 3,
+    "page": 40,
+    "exampleSentence": "Pass the salt and pepper, please.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "iced",
+    "phonetic": "/aɪst/",
+    "meaning": "冰镇的；加冰块的",
+    "unit": 3,
+    "page": 40,
+    "exampleSentence": "Would you like some iced tea?",
+    "difficulty": "basic"
+  },
+  {
+    "word": "Coke",
+    "phonetic": "/kəʊk/",
+    "meaning": "可乐",
+    "unit": 3,
+    "page": 40,
+    "exampleSentence": "Can I have a glass of Coke?",
+    "difficulty": "basic"
+  },
+  {
+    "word": "pill",
+    "phonetic": "/pɪl/",
+    "meaning": "药丸；药片",
+    "unit": 3,
+    "page": 40,
+    "exampleSentence": "Take one pill every morning.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "outgoing",
+    "phonetic": "/ˌaʊtˈɡəʊɪŋ/",
+    "meaning": "外向的；友好的；爱交际的",
+    "unit": 3,
+    "page": 42,
+    "exampleSentence": "She is very outgoing and makes friends easily.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "shy",
+    "phonetic": "/ʃaɪ/",
+    "meaning": "羞怯的；腼腆的",
+    "unit": 3,
+    "page": 42,
+    "exampleSentence": "He is too shy to speak in public.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "snack",
+    "phonetic": "/snæk/",
+    "meaning": "点心；小吃；快餐",
+    "unit": 3,
+    "page": 42,
+    "exampleSentence": "I usually have a snack in the afternoon.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "chocolate",
+    "phonetic": "/ˈtʃɒklət/; /ˈtʃɔːklət/",
+    "meaning": "巧克力",
+    "unit": 3,
+    "page": 42,
+    "exampleSentence": "I love eating chocolate.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "cookie",
+    "phonetic": "/ˈkʊki/",
+    "meaning": "曲奇饼",
+    "unit": 3,
+    "page": 42,
+    "exampleSentence": "I baked some cookies for the party.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "ice cream",
+    "phonetic": "/ˈaɪs kriːm/",
+    "meaning": "冰激凌",
+    "unit": 3,
+    "page": 42,
+    "exampleSentence": "Vanilla is my favorite flavor of ice cream.",
+    "difficulty": "learned"
+  },
+  {
+    "word": "cream",
+    "phonetic": "/kriːm/",
+    "meaning": "奶油",
+    "unit": 3,
+    "page": 42,
+    "exampleSentence": "Would you like cream with your coffee?",
+    "difficulty": "basic"
+  },
+  {
+    "word": "jogging",
+    "phonetic": "/ˈdʒɒɡɪŋ/",
+    "meaning": "慢跑锻炼",
+    "unit": 3,
+    "page": 43,
+    "exampleSentence": "He goes jogging every morning.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "lazy",
+    "phonetic": "/ˈleɪzi/",
+    "meaning": "懒惰的；懒散的",
+    "unit": 3,
+    "page": 43,
+    "exampleSentence": "Don't be lazy, finish your work.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "condition",
+    "phonetic": "/kənˈdɪʃn/",
+    "meaning": "健康状况；状态；状况",
+    "unit": 3,
+    "page": 43,
+    "exampleSentence": "The car is in good condition.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "uncomfortable",
+    "phonetic": "/ʌnˈkʌmftəbl/",
+    "meaning": "使人不舒服的；令人不舒适的",
+    "unit": 3,
+    "page": 43,
+    "exampleSentence": "This chair is very uncomfortable.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "diary",
+    "phonetic": "/ˈdaɪəri/",
+    "meaning": "日记；日记簿",
+    "unit": 3,
+    "page": 44,
+    "exampleSentence": "She writes in her diary every night.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "positive",
+    "phonetic": "/ˈpɒzətɪv/; /ˈpɑːzətɪv/",
+    "meaning": "积极乐观的；积极的；正面的",
+    "unit": 3,
+    "page": 44,
+    "exampleSentence": "Try to keep a positive attitude.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "benefit",
+    "phonetic": "/ˈbenɪfɪt/",
+    "meaning": "益处；优势",
+    "unit": 3,
+    "page": 44,
+    "exampleSentence": "Exercise has many benefits for your health.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "mood",
+    "phonetic": "/muːd/",
+    "meaning": "心情；情绪",
+    "unit": 3,
+    "page": 44,
+    "exampleSentence": "He is in a good mood today.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "volleyball",
+    "phonetic": "/ˈvɒlibɔːl/; /ˈvɑːlibɔːl/",
+    "meaning": "排球运动",
+    "unit": 3,
+    "page": 44,
+    "exampleSentence": "We played volleyball on the beach.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "energy",
+    "phonetic": "/ˈenədʒi/; /ˈenərdʒi/",
+    "meaning": "精力；能源；能量",
+    "unit": 3,
+    "page": 44,
+    "exampleSentence": "Solar energy is good for the environment.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "glad",
+    "phonetic": "/ɡlæd/",
+    "meaning": "高兴；愉快",
+    "unit": 3,
+    "page": 45,
+    "exampleSentence": "I am glad to see you.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "confident",
+    "phonetic": "/ˈkɒnfɪdənt/; /ˈkɑːnfɪdənt/",
+    "meaning": "自信的；有把握的",
+    "unit": 3,
+    "page": 45,
+    "exampleSentence": "She is confident that she will pass the exam.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "absent",
+    "phonetic": "/ˈæbsənt/",
+    "meaning": "缺席；不在",
+    "unit": 3,
+    "page": 45,
+    "exampleSentence": "He was absent from school yesterday.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "moment",
+    "phonetic": "/ˈməʊmənt/",
+    "meaning": "片刻；瞬间",
+    "unit": 3,
+    "page": 45,
+    "exampleSentence": "Wait a moment, please.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "oneself",
+    "phonetic": "/wʌnˈself/",
+    "meaning": "自己；亲自",
+    "unit": 3,
+    "page": 45,
+    "exampleSentence": "One should be honest with oneself.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "seem",
+    "phonetic": "/siːm/",
+    "meaning": "好像，似乎",
+    "unit": 3,
+    "page": 46,
+    "exampleSentence": "It seems like it's going to rain.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "unhealthy",
+    "phonetic": "/ʌnˈhelθi/",
+    "meaning": "不健康的",
+    "unit": 3,
+    "page": 46,
+    "exampleSentence": "Eating junk food is unhealthy.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "empty",
+    "phonetic": "/ˈempti/",
+    "meaning": "空的；无意义的",
+    "unit": 3,
+    "page": 46,
+    "exampleSentence": "The box is empty.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "stomach",
+    "phonetic": "/ˈstʌmək/",
+    "meaning": "胃",
+    "unit": 3,
+    "page": 46,
+    "exampleSentence": "My stomach is full.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "living",
+    "phonetic": "/ˈlɪvɪŋ/",
+    "meaning": "生活方式; 生活的；活着的",
+    "unit": 3,
+    "page": 46,
+    "exampleSentence": "He earns a living by painting.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "nonsense",
+    "phonetic": "/ˈnɒnsns/; /ˈnɑːnsens/",
+    "meaning": "胡扯；谬论；胡言乱语",
+    "unit": 3,
+    "page": 46,
+    "exampleSentence": "Stop talking nonsense.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "improper",
+    "phonetic": "/ɪmˈprɒpə(r)/; /ɪmˈprɑːpər/",
+    "meaning": "不正确的；不适当的；不诚实的",
+    "unit": 3,
+    "page": 46,
+    "exampleSentence": "It is improper to speak loudly in the library.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "clearly",
+    "phonetic": "/ˈklɪəli/; /ˈklɪrli/",
+    "meaning": "明显地；清楚地，清晰地",
+    "unit": 3,
+    "page": 46,
+    "exampleSentence": "Please speak clearly.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "sleepy",
+    "phonetic": "/ˈsliːpi/",
+    "meaning": "困倦的；瞌睡的",
+    "unit": 3,
+    "page": 46,
+    "exampleSentence": "I felt very sleepy after lunch.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "worse",
+    "phonetic": "/wɜːs/; /wɜːrs/",
+    "meaning": "更差的；更糟的；更坏的",
+    "unit": 3,
+    "page": 46,
+    "exampleSentence": "The weather is getting worse.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "rid",
+    "phonetic": "/rɪd/",
+    "meaning": "摆脱",
+    "unit": 3,
+    "page": 46,
+    "exampleSentence": "We need to get rid of this trash.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "fridge",
+    "phonetic": "/frɪdʒ/",
+    "meaning": "冰箱",
+    "unit": 3,
+    "page": 47,
+    "exampleSentence": "There is milk in the fridge.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "weight",
+    "phonetic": "/weɪt/",
+    "meaning": "重量",
+    "unit": 3,
+    "page": 47,
+    "exampleSentence": "What is the weight of this parcel?",
+    "difficulty": "basic"
+  },
+  {
+    "word": "potato",
+    "phonetic": "/pəˈteɪtəʊ/",
+    "meaning": "马铃薯；土豆",
+    "unit": 3,
+    "page": 48,
+    "exampleSentence": "I like baked potatoes.",
+    "difficulty": "learned"
+  },
+  {
+    "word": "corn",
+    "phonetic": "/kɔːn/; /kɔːrn/",
+    "meaning": "玉米；（小麦等）谷物",
+    "unit": 3,
+    "page": 48,
+    "exampleSentence": "The corn is growing tall in the field.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "candy",
+    "phonetic": "/ˈkændi/",
+    "meaning": "糖果；巧克力；一块糖（或巧克力）",
+    "unit": 3,
+    "page": 48,
+    "exampleSentence": "Too much candy is bad for your teeth.",
+    "difficulty": "learned"
+  },
+  {
+    "word": "biscuit",
+    "phonetic": "/ˈbɪskɪt/",
+    "meaning": "饼干",
+    "unit": 3,
+    "page": 48,
+    "exampleSentence": "I had a biscuit with my tea.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "beef",
+    "phonetic": "/biːf/",
+    "meaning": "牛肉",
+    "unit": 3,
+    "page": 48,
+    "exampleSentence": "We ordered beef noodles.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "cucumber",
+    "phonetic": "/ˈkjuːkʌmbə(r)/",
+    "meaning": "黄瓜",
+    "unit": 3,
+    "page": 48,
+    "exampleSentence": "Slice the cucumber for the salad.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "lifestyle",
+    "phonetic": "/ˈlaɪfstaɪl/",
+    "meaning": "生活方式；工作方式",
+    "unit": 3,
+    "page": 49,
+    "exampleSentence": "Exercise is part of a healthy lifestyle.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "prefer",
+    "phonetic": "/prɪˈfɜː(r)/",
+    "meaning": "较喜欢；喜欢……多于……",
+    "unit": 3,
+    "page": 49,
+    "exampleSentence": "I prefer tea to coffee.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "bean",
+    "phonetic": "/biːn/",
+    "meaning": "豆；豆荚",
+    "unit": 3,
+    "page": 49,
+    "exampleSentence": "We grow green beans in our garden.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "though",
+    "phonetic": "/ðəʊ/",
+    "meaning": "虽然；尽管；即使",
+    "unit": 3,
+    "page": 49,
+    "exampleSentence": "I liked the movie, though it was long.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "method",
+    "phonetic": "/ˈmeθəd/",
+    "meaning": "方法；办法；措施",
+    "unit": 3,
+    "page": 52,
+    "exampleSentence": "We need to find a better method.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "focus",
+    "phonetic": "/ˈfəʊkəs/",
+    "meaning": "集中（注意力、精力等于）；中心点；关注",
+    "unit": 3,
+    "page": 52,
+    "exampleSentence": "Please focus on your work.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "smell",
+    "phonetic": "/smel/",
+    "meaning": "气味；嗅觉",
+    "unit": 3,
+    "page": 52,
+    "exampleSentence": "I love the smell of fresh bread.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "mostly",
+    "phonetic": "/ˈməʊstli/",
+    "meaning": "通常；主要地；一般地",
+    "unit": 3,
+    "page": 52,
+    "exampleSentence": "The students are mostly from the local area.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "sauce",
+    "phonetic": "/sɔːs/",
+    "meaning": "调味汁；酱",
+    "unit": 3,
+    "page": 52,
+    "exampleSentence": "She added tomato sauce to the pasta.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "serve",
+    "phonetic": "/sɜːv/; /sɜːrv/",
+    "meaning": "端上；接待；服务",
+    "unit": 3,
+    "page": 52,
+    "exampleSentence": "Dinner is served at 6 pm.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "hobby",
+    "phonetic": "/ˈhɒbi/; /hɑːbi/",
+    "meaning": "业余爱好",
+    "unit": 3,
+    "page": 52,
+    "exampleSentence": "Reading is my favorite hobby.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "hurry",
+    "phonetic": "/ˈhʌri/; /ˈhɜːri/",
+    "meaning": "匆忙；急忙",
+    "unit": 3,
+    "page": 52,
+    "exampleSentence": "Hurry up or we will be late.",
+    "difficulty": "learned"
+  },
+  {
+    "word": "mad",
+    "phonetic": "/mæd/",
+    "meaning": "很生气；气愤",
+    "unit": 3,
+    "page": 52,
+    "exampleSentence": "Don't be mad at me.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "fit",
+    "phonetic": "/fɪt/",
+    "meaning": "健壮的；健康的",
+    "unit": 3,
+    "page": 53,
+    "exampleSentence": "He runs every day to keep fit.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "physical",
+    "phonetic": "/ˈfɪzɪkl/",
+    "meaning": "身体的",
+    "unit": 3,
+    "page": 53,
+    "exampleSentence": "Physical exercise is important.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "balanced",
+    "phonetic": "/ˈbælənst/",
+    "meaning": "保持（或显示）平衡的",
+    "unit": 3,
+    "page": 53,
+    "exampleSentence": "You need to have a balanced diet.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "runner",
+    "phonetic": "/ˈrʌnə(r)/",
+    "meaning": "奔跑的人（或动物）",
+    "unit": 3,
+    "page": 53,
+    "exampleSentence": "He is a fast runner.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "spread",
+    "phonetic": "/spred/",
+    "meaning": "蔓延；扩散",
+    "unit": 3,
+    "page": 53,
+    "exampleSentence": "The news spread quickly.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "vision",
+    "phonetic": "/ˈvɪʒn/",
+    "meaning": "视力；视野",
+    "unit": 4,
+    "page": 56,
+    "exampleSentence": "He has poor vision.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "touch",
+    "phonetic": "/tʌtʃ/",
+    "meaning": "触觉；触感；触摸；碰",
+    "unit": 4,
+    "page": 56,
+    "exampleSentence": "Don't touch the wet paint.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "soft",
+    "phonetic": "/sɒft/; /sɔːft/",
+    "meaning": "轻柔的；柔软的",
+    "unit": 4,
+    "page": 56,
+    "exampleSentence": "The cat's fur is very soft.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "calm",
+    "phonetic": "/kɑːm/",
+    "meaning": "镇静的；沉着的；使平静",
+    "unit": 4,
+    "page": 56,
+    "exampleSentence": "Stay calm in an emergency.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "fool",
+    "phonetic": "/fuːl/",
+    "meaning": "蠢人；傻的；愚蠢的",
+    "unit": 4,
+    "page": 56,
+    "exampleSentence": "Don't be a fool.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "regret",
+    "phonetic": "/rɪˈɡret/",
+    "meaning": "感到遗憾；懊悔",
+    "unit": 4,
+    "page": 56,
+    "exampleSentence": "I regret not studying harder.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "breath",
+    "phonetic": "/breθ/",
+    "meaning": "一次吸入的空气",
+    "unit": 4,
+    "page": 56,
+    "exampleSentence": "Take a deep breath.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "upset",
+    "phonetic": "/ˌʌpˈset/",
+    "meaning": "难过；失望；沮丧；使烦恼；使生气",
+    "unit": 4,
+    "page": 56,
+    "exampleSentence": "She was upset about failing the test.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "nervous",
+    "phonetic": "/ˈn3ːvəs/; /ˈn3ːrvəs/",
+    "meaning": "焦虑的；担忧的",
+    "unit": 4,
+    "page": 56,
+    "exampleSentence": "I felt nervous before the interview.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "sense",
+    "phonetic": "/sens/",
+    "meaning": "感觉到；意识到；觉察出; 感觉官能；意义，含义",
+    "unit": 4,
+    "page": 57,
+    "exampleSentence": "I sense that something is wrong.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "flu",
+    "phonetic": "/fluː/",
+    "meaning": "流感",
+    "unit": 4,
+    "page": 57,
+    "exampleSentence": "He is in bed with the flu.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "Chinatown",
+    "phonetic": "/ˈtʃaɪnətaʊn/",
+    "meaning": "唐人街",
+    "unit": 4,
+    "page": 57,
+    "exampleSentence": "We had dinner in Chinatown.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "firework",
+    "phonetic": "/ˈfaɪəw3ːk/; /ˈfaɪərw3ːrk/",
+    "meaning": "烟火；烟花",
+    "unit": 4,
+    "page": 57,
+    "exampleSentence": "The firework display was beautiful.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "keeper",
+    "phonetic": "/ˈkiːpə(r)/",
+    "meaning": "保管人",
+    "unit": 4,
+    "page": 57,
+    "exampleSentence": "The zoo keeper feeds the animals.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "lonely",
+    "phonetic": "/ˈləʊnli/",
+    "meaning": "孤独的；寂寞的",
+    "unit": 4,
+    "page": 57,
+    "exampleSentence": "She felt lonely when her friends left.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "push",
+    "phonetic": "/pʊʃ/",
+    "meaning": "推动；推进",
+    "unit": 4,
+    "page": 58,
+    "exampleSentence": "Push the door to open it.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "snake",
+    "phonetic": "/sneɪk/",
+    "meaning": "蛇",
+    "unit": 4,
+    "page": 58,
+    "exampleSentence": "I am afraid of snakes.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "miss",
+    "phonetic": "/mɪs/",
+    "meaning": "错过；思念",
+    "unit": 4,
+    "page": 58,
+    "exampleSentence": "I miss my family when I am away.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "recommend",
+    "phonetic": "/ˌrekəˈmend/",
+    "meaning": "推荐；举荐；介绍",
+    "unit": 4,
+    "page": 58,
+    "exampleSentence": "Can you recommend a good restaurant?",
+    "difficulty": "basic"
+  },
+  {
+    "word": "laugh",
+    "phonetic": "/lɑːf/; /læf/",
+    "meaning": "笑",
+    "unit": 4,
+    "page": 60,
+    "exampleSentence": "The joke made everyone laugh.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "happily",
+    "phonetic": "/ˈhæpɪli/",
+    "meaning": "快乐地；幸运地",
+    "unit": 4,
+    "page": 60,
+    "exampleSentence": "They lived happily ever after.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "period",
+    "phonetic": "/ˈpɪəriəd/; /ˈpɪriəd/",
+    "meaning": "一段时间；时期",
+    "unit": 4,
+    "page": 61,
+    "exampleSentence": "It was a difficult period in history.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "teenage",
+    "phonetic": "/ˈtiːneɪdʒ/",
+    "meaning": "青少年的；十几岁的",
+    "unit": 4,
+    "page": 61,
+    "exampleSentence": "He is dealing with teenage problems.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "stage",
+    "phonetic": "/steɪdʒ/",
+    "meaning": "阶段；舞台",
+    "unit": 4,
+    "page": 61,
+    "exampleSentence": "The singer walked onto the stage.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "purpose",
+    "phonetic": "/ˈp3ːpəs/; /ˈp3ːrpəs/",
+    "meaning": "意图；目的",
+    "unit": 4,
+    "page": 61,
+    "exampleSentence": "What is the purpose of your visit?",
+    "difficulty": "basic"
+  },
+  {
+    "word": "teenager",
+    "phonetic": "/ˈtiːneɪdʒə(r)/",
+    "meaning": "青少年",
+    "unit": 4,
+    "page": 61,
+    "exampleSentence": "The teenager likes loud music.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "reach",
+    "phonetic": "/riːtʃ/",
+    "meaning": "达到；到达；够得着",
+    "unit": 4,
+    "page": 61,
+    "exampleSentence": "Can you reach the top shelf?",
+    "difficulty": "basic"
+  },
+  {
+    "word": "adult",
+    "phonetic": "/əˈdʌlt/; /ˈædʌlt/",
+    "meaning": "成年的；发育成熟的; 成年人",
+    "unit": 4,
+    "page": 61,
+    "exampleSentence": "The movie is for adults only.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "height",
+    "phonetic": "/haɪt/",
+    "meaning": "身高；高度",
+    "unit": 4,
+    "page": 61,
+    "exampleSentence": "What is the height of the mountain?",
+    "difficulty": "basic"
+  },
+  {
+    "word": "hair",
+    "phonetic": "/heə(r)/; /her/",
+    "meaning": "体毛；头发",
+    "unit": 4,
+    "page": 61,
+    "exampleSentence": "She has long black hair.",
+    "difficulty": "learned"
+  },
+  {
+    "word": "certain",
+    "phonetic": "/ˈs3ːtn/; /ˈs3ːrtn/",
+    "meaning": "特定的；无疑的；确实的",
+    "unit": 4,
+    "page": 61,
+    "exampleSentence": "I am certain that he is right.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "area",
+    "phonetic": "/ˈeəriə/; /ˈeriə/",
+    "meaning": "部位；面积；地区，地域",
+    "unit": 4,
+    "page": 61,
+    "exampleSentence": "This is a quiet residential area.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "pain",
+    "phonetic": "/peɪn/",
+    "meaning": "痛苦；苦恼；烦恼；疼痛",
+    "unit": 4,
+    "page": 61,
+    "exampleSentence": "He felt a sharp pain in his leg.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "schoolwork",
+    "phonetic": "/ˈskuːlw3ːk/; /ˈskuːlw3ːrk/",
+    "meaning": "学校作业；课堂作业",
+    "unit": 4,
+    "page": 61,
+    "exampleSentence": "I have a lot of schoolwork to do.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "stress",
+    "phonetic": "/stres/",
+    "meaning": "精神压力；心理负担",
+    "unit": 4,
+    "page": 61,
+    "exampleSentence": "She is under a lot of stress at work.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "pressure",
+    "phonetic": "/ˈpreʃə(r)/",
+    "meaning": "心理压力，紧张；压力",
+    "unit": 4,
+    "page": 61,
+    "exampleSentence": "The pressure to succeed is high.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "deal",
+    "phonetic": "/diːl/",
+    "meaning": "对待；对付",
+    "unit": 4,
+    "page": 61,
+    "exampleSentence": "I can't deal with this problem right now.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "firstly",
+    "phonetic": "/ˈf3ːstli/; /ˈf3ːrstli/",
+    "meaning": "首先，第一",
+    "unit": 4,
+    "page": 61,
+    "exampleSentence": "Firstly, we need to make a plan.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "compare",
+    "phonetic": "/kəmˈpeə(r)/; /kəmˈper/",
+    "meaning": "比较；对比",
+    "unit": 4,
+    "page": 61,
+    "exampleSentence": "Compare the two pictures and find the differences.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "shine",
+    "phonetic": "/ʃaɪn/",
+    "meaning": "出色；发光",
+    "unit": 4,
+    "page": 61,
+    "exampleSentence": "The sun shines brightly in the sky.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "discover",
+    "phonetic": "/dɪˈskʌvə(r)/",
+    "meaning": "认识到；发现",
+    "unit": 4,
+    "page": 61,
+    "exampleSentence": "Columbus discovered America in 1492.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "memory",
+    "phonetic": "/ˈmeməri/",
+    "meaning": "回忆；记忆；记忆力；记性",
+    "unit": 4,
+    "page": 62,
+    "exampleSentence": "He has a very good memory.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "junior",
+    "phonetic": "/ˈdʒuːniə(r)/",
+    "meaning": "为11或13岁以下儿童设立的；地位低下的",
+    "unit": 4,
+    "page": 62,
+    "exampleSentence": "He is a junior employee.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "trouble",
+    "phonetic": "/ˈtrʌbl/",
+    "meaning": "问题；困难；困境",
+    "unit": 4,
+    "page": 62,
+    "exampleSentence": "He got into trouble for being late.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "email",
+    "phonetic": "/ˈiːmeɪl/",
+    "meaning": "电子邮件",
+    "unit": 4,
+    "page": 62,
+    "exampleSentence": "Send me an email.",
+    "difficulty": "learned"
+  },
+  {
+    "word": "detail",
+    "phonetic": "/ˈdiːteɪl/",
+    "meaning": "细节；详情",
+    "unit": 4,
+    "page": 62,
+    "exampleSentence": "Tell me every detail of the story.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "advise",
+    "phonetic": "/ədˈvaɪz/",
+    "meaning": "劝告；建议",
+    "unit": 4,
+    "page": 62,
+    "exampleSentence": "I advise you to see a doctor.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "congratulation",
+    "phonetic": "/kənˌɡrætʃəˈleɪʃn/",
+    "meaning": "祝贺；恭贺",
+    "unit": 4,
+    "page": 62,
+    "exampleSentence": "Congratulations on passing your exam!",
+    "difficulty": "basic"
+  },
+  {
+    "word": "disappointed",
+    "phonetic": "/ˌdɪsəˈpɒɪntɪd/",
+    "meaning": "失望的；沮丧的",
+    "unit": 4,
+    "page": 62,
+    "exampleSentence": "He was disappointed with the result.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "honest",
+    "phonetic": "/ˈɒnɪst/; /ˈɑːnɪst/",
+    "meaning": "坦诚的；诚实的",
+    "unit": 4,
+    "page": 62,
+    "exampleSentence": "Be honest with me.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "gather",
+    "phonetic": "/ˈɡæðə(r)/",
+    "meaning": "收拢；聚集；集合；搜集",
+    "unit": 4,
+    "page": 62,
+    "exampleSentence": "The students gathered in the hall.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "courage",
+    "phonetic": "/ˈkʌrɪdʒ/; /ˈk3ːrɪdʒ/",
+    "meaning": "勇气；勇敢",
+    "unit": 4,
+    "page": 62,
+    "exampleSentence": "It takes courage to admit your mistakes.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "spare",
+    "phonetic": "/speə(r)/; /sper/",
+    "meaning": "抽出；留出; 空闲的；空余的",
+    "unit": 4,
+    "page": 62,
+    "exampleSentence": "Can you spare a minute?",
+    "difficulty": "basic"
+  },
+  {
+    "word": "cellphone",
+    "phonetic": "/ˈselfəʊn/",
+    "meaning": "手机；移动电话",
+    "unit": 4,
+    "page": 64,
+    "exampleSentence": "Don't use your cellphone in class.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "boss",
+    "phonetic": "/bɒs/; /bɔːs/",
+    "meaning": "老板",
+    "unit": 4,
+    "page": 64,
+    "exampleSentence": "The boss is in a meeting.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "careless",
+    "phonetic": "/ˈkeələs/; /ˈkerləs/",
+    "meaning": "粗心的；不小心的；不仔细的",
+    "unit": 4,
+    "page": 64,
+    "exampleSentence": "Don't be careless with your work.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "joy",
+    "phonetic": "/dʒɔɪ/",
+    "meaning": "喜悦；乐趣",
+    "unit": 4,
+    "page": 64,
+    "exampleSentence": "The children shouted with joy.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "comfortable",
+    "phonetic": "/ˈkʌmftəbl/",
+    "meaning": "舒服的，安逸的；舒适的；自在的",
+    "unit": 4,
+    "page": 64,
+    "exampleSentence": "Make yourself comfortable.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "smoke",
+    "phonetic": "/sməʊk/",
+    "meaning": "吸烟; 烟；吸烟",
+    "unit": 4,
+    "page": 64,
+    "exampleSentence": "Smoke rose from the chimney.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "youth",
+    "phonetic": "/juːθ/",
+    "meaning": "青年时期（尤指成年以前）；年轻；青年",
+    "unit": 4,
+    "page": 64,
+    "exampleSentence": "He spent his youth traveling.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "might",
+    "phonetic": "/maɪt/",
+    "meaning": "可能",
+    "unit": 4,
+    "page": 64,
+    "exampleSentence": "It might rain later.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "bathroom",
+    "phonetic": "/ˈbɑːθruːm/; /ˈbæθruːm/",
+    "meaning": "浴室",
+    "unit": 4,
+    "page": 65,
+    "exampleSentence": "The bathroom is upstairs.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "jog",
+    "phonetic": "/dʒɒɡ/; /dʒɑːɡ/",
+    "meaning": "慢跑",
+    "unit": 4,
+    "page": 65,
+    "exampleSentence": "I like to jog in the park.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "postcard",
+    "phonetic": "/ˈpəʊstkɑːd/; /ˈpəʊstkɑːrd/",
+    "meaning": "明信片",
+    "unit": 4,
+    "page": 65,
+    "exampleSentence": "Send me a postcard from your holiday.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "band",
+    "phonetic": "/bænd/",
+    "meaning": "乐队",
+    "unit": 5,
+    "page": 66,
+    "exampleSentence": "The band played our favorite song.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "ticket",
+    "phonetic": "/ˈtɪkɪt/",
+    "meaning": "票，券",
+    "unit": 5,
+    "page": 66,
+    "exampleSentence": "I bought a ticket for the concert.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "crazy",
+    "phonetic": "/ˈkreɪzi/",
+    "meaning": "热衷的；狂热的",
+    "unit": 5,
+    "page": 66,
+    "exampleSentence": "He is crazy about football.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "surprised",
+    "phonetic": "/səˈpraɪzd/; /sərˈpraɪzd/",
+    "meaning": "惊奇的；惊讶的",
+    "unit": 5,
+    "page": 66,
+    "exampleSentence": "I was surprised to see him there.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "gain",
+    "phonetic": "/ɡeɪn/",
+    "meaning": "获得；赢得；增加",
+    "unit": 5,
+    "page": 67,
+    "exampleSentence": "He gained a lot of experience from the job.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "argue",
+    "phonetic": "/ˈɑːɡjuː/; /ˈɑːrɡjuː/",
+    "meaning": "争论；争吵；争辩",
+    "unit": 5,
+    "page": 67,
+    "exampleSentence": "They always argue about money.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "luckily",
+    "phonetic": "/ˈlʌkɪli/",
+    "meaning": "幸好；幸运地",
+    "unit": 5,
+    "page": 67,
+    "exampleSentence": "Luckily, no one was hurt in the accident.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "notice",
+    "phonetic": "/ˈnəʊtɪs/",
+    "meaning": "注意到；注意",
+    "unit": 5,
+    "page": 67,
+    "exampleSentence": "Did you notice his new haircut?",
+    "difficulty": "basic"
+  },
+  {
+    "word": "relationship",
+    "phonetic": "/rɪˈleɪʃnʃɪp/",
+    "meaning": "关系；联系；关联",
+    "unit": 5,
+    "page": 67,
+    "exampleSentence": "They have a very good relationship.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "accept",
+    "phonetic": "/əkˈsept/",
+    "meaning": "接受",
+    "unit": 5,
+    "page": 67,
+    "exampleSentence": "Please accept my apology.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "anymore",
+    "phonetic": "/ˌeniˈmɔː(r)/; /ˌeniˈmɔːr/",
+    "meaning": "再也（不）；（不）再",
+    "unit": 5,
+    "page": 67,
+    "exampleSentence": "I don't live there anymore.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "review",
+    "phonetic": "/rɪˈvjuː/",
+    "meaning": "复习",
+    "unit": 5,
+    "page": 70,
+    "exampleSentence": "Review your notes before the test.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "robot",
+    "phonetic": "/ˈrəʊbɒt/; /ˈrəʊbɑːt/",
+    "meaning": "机器人",
+    "unit": 5,
+    "page": 70,
+    "exampleSentence": "The robot can walk and talk.",
+    "difficulty": "learned"
+  },
+  {
+    "word": "similar",
+    "phonetic": "/ˈsɪmələ(r)/",
+    "meaning": "相仿的；类似的",
+    "unit": 5,
+    "page": 71,
+    "exampleSentence": "My car is similar to yours.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "manage",
+    "phonetic": "/ˈmænɪdʒ/",
+    "meaning": "完成（困难的事）；成功获得；管理",
+    "unit": 5,
+    "page": 71,
+    "exampleSentence": "Did you manage to fix the leak?",
+    "difficulty": "basic"
+  },
+  {
+    "word": "avoid",
+    "phonetic": "/əˈvɔɪd/",
+    "meaning": "避免；防止",
+    "unit": 5,
+    "page": 71,
+    "exampleSentence": "Try to avoid eating junk food.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "balance",
+    "phonetic": "/ˈbæləns/",
+    "meaning": "平衡",
+    "unit": 5,
+    "page": 71,
+    "exampleSentence": "It is hard to keep your balance on one leg.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "nest",
+    "phonetic": "/nest/",
+    "meaning": "鸟巢；鸟窝",
+    "unit": 5,
+    "page": 74,
+    "exampleSentence": "The bird built a nest in the tree.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "Mount",
+    "phonetic": "/maʊnt/",
+    "meaning": "山；山峰（在现代英语里仅用于地名）",
+    "unit": 5,
+    "page": 74,
+    "exampleSentence": "Mount Everest is the highest mountain.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "lie",
+    "phonetic": "/laɪ/",
+    "meaning": "位于；坐落在；躺；平躺",
+    "unit": 5,
+    "page": 74,
+    "exampleSentence": "The village lies in a valley.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "province",
+    "phonetic": "/ˈprɒvɪns/; /ˈprɑːvɪns/",
+    "meaning": "省份",
+    "unit": 5,
+    "page": 74,
+    "exampleSentence": "He lives in Guangdong province.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "east",
+    "phonetic": "/iːst/",
+    "meaning": "东；东方",
+    "unit": 5,
+    "page": 74,
+    "exampleSentence": "The sun rises in the east.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "ceremony",
+    "phonetic": "/ˈserəməni/; /ˈserəməʊni/",
+    "meaning": "仪式；典礼",
+    "unit": 5,
+    "page": 74,
+    "exampleSentence": "They attended the graduation ceremony.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "Olympics",
+    "phonetic": "/əˈlɪmpɪks/",
+    "meaning": "奥林匹克运动会；奥运会",
+    "unit": 5,
+    "page": 74,
+    "exampleSentence": "Athletes from all over the world compete in the Olympics.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "central",
+    "phonetic": "/ˈsentrəl/",
+    "meaning": "在中心的；中央的",
+    "unit": 5,
+    "page": 74,
+    "exampleSentence": "The hotel is in a central location.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "south-east",
+    "phonetic": "/ˌsaʊθ ˈiːst/",
+    "meaning": "东南；东南方；东南地区",
+    "unit": 5,
+    "page": 74,
+    "exampleSentence": "The wind is blowing from the south-east.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "yet",
+    "phonetic": "/jet/",
+    "meaning": "但是；然而",
+    "unit": 5,
+    "page": 75,
+    "exampleSentence": "It is a small yet comfortable house.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "quite",
+    "phonetic": "/kwaɪt/",
+    "meaning": "十分，非常；相当",
+    "unit": 5,
+    "page": 75,
+    "exampleSentence": "She is quite good at singing.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "already",
+    "phonetic": "/ɔːlˈredi/",
+    "meaning": "已经；早已",
+    "unit": 5,
+    "page": 75,
+    "exampleSentence": "I have already finished my homework.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "south-west",
+    "phonetic": "/ˌsaʊθ ˈwest/",
+    "meaning": "西南部的; 西南方；西南地区",
+    "unit": 5,
+    "page": 76,
+    "exampleSentence": "They traveled to the south-west of the country.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "length",
+    "phonetic": "/leŋkθ/",
+    "meaning": "长；长度",
+    "unit": 5,
+    "page": 76,
+    "exampleSentence": "What is the length of the table?",
+    "difficulty": "basic"
+  },
+  {
+    "word": "round",
+    "phonetic": "/raʊnd/",
+    "meaning": "圆形的；环形的; 旋转；环绕",
+    "unit": 5,
+    "page": 76,
+    "exampleSentence": "The earth is round.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "palace",
+    "phonetic": "/ˈpæləs/",
+    "meaning": "王宫；宫殿",
+    "unit": 5,
+    "page": 76,
+    "exampleSentence": "The king lives in a palace.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "lotus",
+    "phonetic": "/ˈləʊtəs/",
+    "meaning": "莲属植物",
+    "unit": 5,
+    "page": 78,
+    "exampleSentence": "The lotus flower is beautiful.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "rich",
+    "phonetic": "/rɪtʃ/",
+    "meaning": "丰富多彩的；富有的；油腻的",
+    "unit": 5,
+    "page": 78,
+    "exampleSentence": "The country has a rich history.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "culture",
+    "phonetic": "/ˈkʌltʃə(r)/",
+    "meaning": "文化",
+    "unit": 5,
+    "page": 78,
+    "exampleSentence": "Learning a language helps you understand the culture.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "cultural",
+    "phonetic": "/ˈkʌltʃərəl/",
+    "meaning": "文化的；与文化有关的",
+    "unit": 5,
+    "page": 78,
+    "exampleSentence": "We attended a cultural festival.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "interest",
+    "phonetic": "/ˈɪntrəst/; /ˈɪntrest/",
+    "meaning": "吸引力；兴趣",
+    "unit": 5,
+    "page": 78,
+    "exampleSentence": "The book was of great interest to me.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "average",
+    "phonetic": "/ˈævərɪdʒ/",
+    "meaning": "平均数; 平均的",
+    "unit": 5,
+    "page": 78,
+    "exampleSentence": "The average temperature in summer is 30 degrees.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "saying",
+    "phonetic": "/ˈseɪɪŋ/",
+    "meaning": "谚语；格言",
+    "unit": 5,
+    "page": 78,
+    "exampleSentence": "There is an old saying about this.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "heaven",
+    "phonetic": "/ˈhevn/",
+    "meaning": "天堂",
+    "unit": 5,
+    "page": 78,
+    "exampleSentence": "The garden looks like heaven.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "above",
+    "phonetic": "/əˈbʌv/",
+    "meaning": "在（或向）上面",
+    "unit": 5,
+    "page": 78,
+    "exampleSentence": "The plane flew above the clouds.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "below",
+    "phonetic": "/bɪˈləʊ/",
+    "meaning": "在（或到）下面",
+    "unit": 5,
+    "page": 78,
+    "exampleSentence": "Please read the text below.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "landscape",
+    "phonetic": "/ˈlændskeɪp/",
+    "meaning": "风景，景色",
+    "unit": 5,
+    "page": 78,
+    "exampleSentence": "The landscape here is breathtaking.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "broken",
+    "phonetic": "/ˈbrəʊkən/",
+    "meaning": "破损的；残缺的",
+    "unit": 5,
+    "page": 78,
+    "exampleSentence": "Be careful of the broken glass.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "traveler",
+    "phonetic": "/ˈtrævələ(r)/",
+    "meaning": "旅行者；旅客；游客",
+    "unit": 5,
+    "page": 78,
+    "exampleSentence": "The traveler carried a heavy backpack.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "bicycle",
+    "phonetic": "/ˈbaɪsɪkl/",
+    "meaning": "自行车",
+    "unit": 5,
+    "page": 78,
+    "exampleSentence": "I ride my bicycle to work.",
+    "difficulty": "learned"
+  },
+  {
+    "word": "landmark",
+    "phonetic": "/ˈlændmɑːk/; /ˈlændmɑːrk/",
+    "meaning": "地标",
+    "unit": 5,
+    "page": 79,
+    "exampleSentence": "The Eiffel Tower is a famous landmark.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "whole",
+    "phonetic": "/həʊl/",
+    "meaning": "全部的；整体的",
+    "unit": 5,
+    "page": 79,
+    "exampleSentence": "I ate the whole pizza.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "material",
+    "phonetic": "/məˈtɪəriəl/; /məˈtɪriəl/",
+    "meaning": "材料",
+    "unit": 5,
+    "page": 79,
+    "exampleSentence": "What material is this shirt made of?",
+    "difficulty": "basic"
+  },
+  {
+    "word": "structure",
+    "phonetic": "/ˈstrʌktʃə(r)/",
+    "meaning": "结构体；（尤指）建筑物；结构；构造",
+    "unit": 5,
+    "page": 79,
+    "exampleSentence": "The bridge is a strong structure.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "surely",
+    "phonetic": "/ˈʃʊəli/; /ˈʃʊrli/",
+    "meaning": "无疑；必定；想必",
+    "unit": 5,
+    "page": 79,
+    "exampleSentence": "Surely you can't be serious.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "performing arts",
+    "phonetic": "",
+    "meaning": "表演艺术",
+    "unit": 5,
+    "page": 79,
+    "exampleSentence": "She studies performing arts at college.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "sail",
+    "phonetic": "/seɪl/",
+    "meaning": "航行; 帆",
+    "unit": 5,
+    "page": 79,
+    "exampleSentence": "They plan to sail around the world.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "dining",
+    "phonetic": "/ˈdaɪnɪŋ/",
+    "meaning": "用餐",
+    "unit": 5,
+    "page": 79,
+    "exampleSentence": "We are in the dining room.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "vacation",
+    "phonetic": "/veɪˈkeɪʃn/; /vəˈkeɪʃn/",
+    "meaning": "（学校的）假期",
+    "unit": 5,
+    "page": 80,
+    "exampleSentence": "We are going on vacation next week.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "field",
+    "phonetic": "/fiːld/",
+    "meaning": "田；地；场地",
+    "unit": 5,
+    "page": 80,
+    "exampleSentence": "The farmer is working in the field.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "terrace",
+    "phonetic": "/ˈterəs/",
+    "meaning": "梯田；排屋；阳台",
+    "unit": 5,
+    "page": 80,
+    "exampleSentence": "We sat on the terrace to watch the sunset.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "pig",
+    "phonetic": "/pɪɡ/",
+    "meaning": "猪",
+    "unit": 5,
+    "page": 80,
+    "exampleSentence": "The pig lives on the farm.",
+    "difficulty": "learned"
+  },
+  {
+    "word": "message",
+    "phonetic": "/ˈmesɪdʒ/",
+    "meaning": "信息，消息; 发即时信息",
+    "unit": 5,
+    "page": 80,
+    "exampleSentence": "I left a message for you.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "view",
+    "phonetic": "/vjuː/",
+    "meaning": "景色，风景；视野",
+    "unit": 5,
+    "page": 81,
+    "exampleSentence": "The room has a nice view of the sea.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "countryside",
+    "phonetic": "/ˈkʌntrisaɪd/",
+    "meaning": "乡村",
+    "unit": 5,
+    "page": 81,
+    "exampleSentence": "I enjoy living in the countryside.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "system",
+    "phonetic": "/ˈsɪstəm/",
+    "meaning": "系统；体制",
+    "unit": 5,
+    "page": 81,
+    "exampleSentence": "The school has a good education system.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "unusual",
+    "phonetic": "/ʌnˈjuːʒuəl/; /ʌnˈjuːʒəl/",
+    "meaning": "特别的，不寻常的",
+    "unit": 5,
+    "page": 81,
+    "exampleSentence": "It is unusual for him to be late.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "lean",
+    "phonetic": "/liːn/",
+    "meaning": "倾斜",
+    "unit": 5,
+    "page": 82,
+    "exampleSentence": "Don't lean against the wall.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "fix",
+    "phonetic": "/fɪks/",
+    "meaning": "修理；校正",
+    "unit": 5,
+    "page": 82,
+    "exampleSentence": "Can you fix my broken bike?",
+    "difficulty": "basic"
+  },
+  {
+    "word": "base",
+    "phonetic": "/beɪs/",
+    "meaning": "底部，根基；基地",
+    "unit": 5,
+    "page": 82,
+    "exampleSentence": "The lamp has a heavy base.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "firm",
+    "phonetic": "/f3ːm/; /f3ːrm/",
+    "meaning": "牢固的，稳固的；坚固的",
+    "unit": 5,
+    "page": 82,
+    "exampleSentence": "We need a firm surface to build on.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "beach",
+    "phonetic": "/biːtʃ/",
+    "meaning": "海滩；沙滩",
+    "unit": 5,
+    "page": 83,
+    "exampleSentence": "We spent the day at the beach.",
+    "difficulty": "learned"
+  },
+  {
+    "word": "hostess",
+    "phonetic": "/ˈhəʊstəs/",
+    "meaning": "女房东；女主持人",
+    "unit": 5,
+    "page": 83,
+    "exampleSentence": "The hostess welcomed us warmly.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "expect",
+    "phonetic": "/ɪkˈspekt/",
+    "meaning": "期待；预计；要求；指望",
+    "unit": 5,
+    "page": 83,
+    "exampleSentence": "I expect to be home by 6 pm.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "warn",
+    "phonetic": "/wɔːn/; /wɔːrn/",
+    "meaning": "劝告；警告；告诫",
+    "unit": 5,
+    "page": 83,
+    "exampleSentence": "I warned him not to touch the fire.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "forward",
+    "phonetic": "/ˈfɔːwəd/; /ˈfɔːrwərd/",
+    "meaning": "往后；向前",
+    "unit": 5,
+    "page": 83,
+    "exampleSentence": "He stepped forward to receive his prize.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "Indian",
+    "phonetic": "/ˈɪndiən/",
+    "meaning": "印度的",
+    "unit": 5,
+    "page": 84,
+    "exampleSentence": "We ate Indian food for dinner.",
+    "difficulty": "learned"
+  },
+  {
+    "word": "enemy",
+    "phonetic": "/ˈenəmi/",
+    "meaning": "敌人；仇人；反对者",
+    "unit": 5,
+    "page": 85,
+    "exampleSentence": "They made peace with their enemy.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "stone",
+    "phonetic": "/stəʊn/",
+    "meaning": "石头",
+    "unit": 5,
+    "page": 85,
+    "exampleSentence": "The wall is made of stone.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "soldier",
+    "phonetic": "/ˈsəʊldʒə(r)/",
+    "meaning": "军人；（尤指）士兵",
+    "unit": 5,
+    "page": 85,
+    "exampleSentence": "The soldier fought bravely.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "quickly",
+    "phonetic": "/ˈkwɪkli/",
+    "meaning": "迅速地；很快地",
+    "unit": 5,
+    "page": 85,
+    "exampleSentence": "He ran quickly to catch the bus.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "watchtower",
+    "phonetic": "/ˈwɒtʃtaʊə(r)/; /ˈwɑːtʃtaʊər/",
+    "meaning": "瞭望塔；岗楼",
+    "unit": 5,
+    "page": 85,
+    "exampleSentence": "The guards stood in the watchtower.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "wisdom",
+    "phonetic": "/ˈwɪzdəm/",
+    "meaning": "智慧；才智",
+    "unit": 5,
+    "page": 85,
+    "exampleSentence": "He is a man of great wisdom.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "trade",
+    "phonetic": "/treɪd/",
+    "meaning": "贸易",
+    "unit": 5,
+    "page": 85,
+    "exampleSentence": "International trade is important for the economy.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "route",
+    "phonetic": "/ruːt/; /raʊt/",
+    "meaning": "路线；路途；常规路线",
+    "unit": 5,
+    "page": 85,
+    "exampleSentence": "Which route should we take?",
+    "difficulty": "basic"
+  },
+  {
+    "word": "T-shirt",
+    "phonetic": "/ˈtiː ʃ3ːt/; /ˈtiː ʃ3ːrt/",
+    "meaning": "T恤衫",
+    "unit": 5,
+    "page": 85,
+    "exampleSentence": "He is wearing a white T-shirt.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "nation",
+    "phonetic": "/ˈneɪʃn/",
+    "meaning": "国家；民族",
+    "unit": 5,
+    "page": 85,
+    "exampleSentence": "The whole nation celebrated the victory.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "site",
+    "phonetic": "/saɪt/",
+    "meaning": "地点，位置；现场；站点",
+    "unit": 5,
+    "page": 87,
+    "exampleSentence": "This is the site of the new building.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "emperor",
+    "phonetic": "/ˈempərə(r)/",
+    "meaning": "皇帝",
+    "unit": 5,
+    "page": 87,
+    "exampleSentence": "The emperor ruled the country for many years.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "wife",
+    "phonetic": "/waɪf/",
+    "meaning": "妻子",
+    "unit": 5,
+    "page": 87,
+    "exampleSentence": "He and his wife went on holiday.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "empress",
+    "phonetic": "/ˈemprəs/",
+    "meaning": "皇后；女皇",
+    "unit": 5,
+    "page": 87,
+    "exampleSentence": "The empress wore a beautiful crown.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "visitor",
+    "phonetic": "/ˈvɪzɪtə(r)/",
+    "meaning": "来访者；游客",
+    "unit": 5,
+    "page": 87,
+    "exampleSentence": "The museum welcomes many visitors.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "tea",
+    "phonetic": "/tiː/",
+    "meaning": "茶（水）；茶叶",
+    "unit": 5,
+    "page": 88,
+    "exampleSentence": "Would you like a cup of tea?",
+    "difficulty": "learned"
+  },
+  {
+    "word": "government",
+    "phonetic": "/ˈɡʌvənmənt/; /ˈɡʌvərnmənt/",
+    "meaning": "政府",
+    "unit": 5,
+    "page": 88,
+    "exampleSentence": "The government announced new laws.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "protection",
+    "phonetic": "/prəˈtekʃn/",
+    "meaning": "保护；防卫",
+    "unit": 5,
+    "page": 88,
+    "exampleSentence": "Sunscreen gives protection against sunburn.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "Roman",
+    "phonetic": "/ˈrəʊmən/",
+    "meaning": "古罗马人；（现代的）罗马人; 古罗马的；罗马的",
+    "unit": 5,
+    "page": 89,
+    "exampleSentence": "The Roman Empire was very powerful.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "northwest",
+    "phonetic": "",
+    "meaning": "西北；西北方；西北地区",
+    "unit": 5,
+    "page": 89,
+    "exampleSentence": "The wind is blowing from the northwest.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "finish",
+    "phonetic": "/ˈfɪnɪʃ/",
+    "meaning": "完成；做好",
+    "unit": 5,
+    "page": 89,
+    "exampleSentence": "I will finish my work soon.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "thick",
+    "phonetic": "/θɪk/",
+    "meaning": "茂密的；厚的",
+    "unit": 5,
+    "page": 89,
+    "exampleSentence": "The book is very thick.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "flat",
+    "phonetic": "/flæt/",
+    "meaning": "平坦的；平的",
+    "unit": 5,
+    "page": 89,
+    "exampleSentence": "The table has a flat surface.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "natural",
+    "phonetic": "/ˈnætʃrəl/",
+    "meaning": "天然的；自然的",
+    "unit": 5,
+    "page": 89,
+    "exampleSentence": "She has natural beauty.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "beyond",
+    "phonetic": "/bɪˈjɒnd/; /bɪˈjɑːnd/",
+    "meaning": "在另一边；在（或向）更远处; 在（或向）……较远的一边；除……之外",
+    "unit": 6,
+    "page": 91,
+    "exampleSentence": "The village lies beyond the hills.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "universe",
+    "phonetic": "/ˈjuːnɪv3ːs/; /ˈjuːnɪv3ːrs/",
+    "meaning": "宇宙",
+    "unit": 6,
+    "page": 92,
+    "exampleSentence": "The universe is vast and mysterious.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "rocket",
+    "phonetic": "/ˈrɒkɪt/; /ˈrɑːkɪt/",
+    "meaning": "火箭",
+    "unit": 6,
+    "page": 92,
+    "exampleSentence": "The rocket blasted off into space.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "satellite",
+    "phonetic": "/ˈsætəlaɪt/",
+    "meaning": "卫星；人造卫星",
+    "unit": 6,
+    "page": 92,
+    "exampleSentence": "The moon is a satellite of the Earth.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "object",
+    "phonetic": "/ˈɒbdʒɪkt/; /ˈɑːbdʒɪkt/",
+    "meaning": "物体；对象；目标；宾语",
+    "unit": 6,
+    "page": 92,
+    "exampleSentence": "There is a strange object in the sky.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "solar",
+    "phonetic": "/ˈsəʊlə(r)/",
+    "meaning": "太阳的；太阳能的",
+    "unit": 6,
+    "page": 92,
+    "exampleSentence": "Solar power is a renewable energy source.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "warmth",
+    "phonetic": "/wɔːmθ/; /wɔːrmθ/",
+    "meaning": "温暖；暖和；热情",
+    "unit": 6,
+    "page": 92,
+    "exampleSentence": "He felt the warmth of the sun.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "man-made",
+    "phonetic": "/ˌmænˈmeɪd/",
+    "meaning": "人造的；非天然的",
+    "unit": 6,
+    "page": 92,
+    "exampleSentence": "Nylon is a man-made material.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "surface",
+    "phonetic": "/ˈs3ːfɪs/; /ˈs3ːrfɪs/",
+    "meaning": "表面；表层",
+    "unit": 6,
+    "page": 93,
+    "exampleSentence": "The surface of the water was smooth.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "degree",
+    "phonetic": "/dɪˈɡriː/",
+    "meaning": "度，度数；学位",
+    "unit": 6,
+    "page": 93,
+    "exampleSentence": "Water boils at 100 degrees Celsius.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "Celsius",
+    "phonetic": "/ˈselsiəs/",
+    "meaning": "摄氏的",
+    "unit": 6,
+    "page": 93,
+    "exampleSentence": "The temperature is 25 degrees Celsius.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "electricity",
+    "phonetic": "/ɪˌlekˈtrɪsəti/",
+    "meaning": "电；电能",
+    "unit": 6,
+    "page": 93,
+    "exampleSentence": "The storm cut off the electricity.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "heat",
+    "phonetic": "/hiːt/",
+    "meaning": "热量；热；高温; 加热；变热",
+    "unit": 6,
+    "page": 93,
+    "exampleSentence": "Heat the soup before eating.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "spoon",
+    "phonetic": "/spuːn/",
+    "meaning": "勺；匙",
+    "unit": 6,
+    "page": 94,
+    "exampleSentence": "Eat your soup with a spoon.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "telescope",
+    "phonetic": "/ˈtelɪskəʊp/",
+    "meaning": "望远镜",
+    "unit": 6,
+    "page": 94,
+    "exampleSentence": "We looked at the stars through a telescope.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "appear",
+    "phonetic": "/əˈpɪə(r)/; /əˈpɪr/",
+    "meaning": "出现，呈现，显现；显得",
+    "unit": 6,
+    "page": 94,
+    "exampleSentence": "A rainbow appeared in the sky.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "ha",
+    "phonetic": "/hɑː/",
+    "meaning": "哈哈（笑）",
+    "unit": 6,
+    "page": 94,
+    "exampleSentence": "Ha! That's funny.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "daytime",
+    "phonetic": "/ˈdeɪtaɪm/",
+    "meaning": "白天；日间",
+    "unit": 6,
+    "page": 94,
+    "exampleSentence": "Owls usually sleep in the daytime.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "diameter",
+    "phonetic": "/daɪˈæmɪtə(r)/",
+    "meaning": "直径",
+    "unit": 6,
+    "page": 96,
+    "exampleSentence": "Measure the diameter of the circle.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "asteroid",
+    "phonetic": "/ˈæstərɔɪd/",
+    "meaning": "小行星",
+    "unit": 6,
+    "page": 96,
+    "exampleSentence": "An asteroid orbits the sun.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "belt",
+    "phonetic": "/belt/",
+    "meaning": "环形地带；腰带",
+    "unit": 6,
+    "page": 96,
+    "exampleSentence": "He wore a leather belt.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "separate",
+    "phonetic": "/ˈsepəreɪt/",
+    "meaning": "（使）分开；划分",
+    "unit": 6,
+    "page": 96,
+    "exampleSentence": "The river separates the two cities.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "inner",
+    "phonetic": "/ˈɪnə(r)/",
+    "meaning": "接近中心的；内部的；内心的",
+    "unit": 6,
+    "page": 96,
+    "exampleSentence": "The inner circle represents the core team.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "outer",
+    "phonetic": "/ˈaʊtə(r)/",
+    "meaning": "外围的；远离中心的；外边的",
+    "unit": 6,
+    "page": 96,
+    "exampleSentence": "We explored the outer limits of the city.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "Mercury",
+    "phonetic": "/ˈm3ːkjəri/; /ˈm3ːrkjəri/",
+    "meaning": "水星",
+    "unit": 6,
+    "page": 96,
+    "exampleSentence": "Mercury is the closest planet to the sun.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "Venus",
+    "phonetic": "/ˈviːnəs/",
+    "meaning": "金星；太白星",
+    "unit": 6,
+    "page": 96,
+    "exampleSentence": "Venus is very bright in the sky.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "Mars",
+    "phonetic": "/mɑːz/; /mɑːrz/",
+    "meaning": "火星",
+    "unit": 6,
+    "page": 96,
+    "exampleSentence": "Mars is known as the Red Planet.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "include",
+    "phonetic": "/ɪnˈkluːd/",
+    "meaning": "包括；包含",
+    "unit": 6,
+    "page": 96,
+    "exampleSentence": "The price includes breakfast.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "Jupiter",
+    "phonetic": "/ˈdʒuːpɪtə(r)/",
+    "meaning": "木星",
+    "unit": 6,
+    "page": 96,
+    "exampleSentence": "Jupiter is the largest planet in our solar system.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "Saturn",
+    "phonetic": "/ˈsæt3ːn/; /ˈsæt3ːrn/",
+    "meaning": "土星",
+    "unit": 6,
+    "page": 96,
+    "exampleSentence": "Saturn has beautiful rings.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "Uranus",
+    "phonetic": "/ˈjʊərənəs/; /ˈjʊrənəs/",
+    "meaning": "天王星",
+    "unit": 6,
+    "page": 96,
+    "exampleSentence": "Uranus is an ice giant planet.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "Neptune",
+    "phonetic": "/ˈneptjuːn/",
+    "meaning": "海王星",
+    "unit": 6,
+    "page": 96,
+    "exampleSentence": "Neptune is very far from the sun.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "rock",
+    "phonetic": "/rɒk/; /rɑːk/",
+    "meaning": "岩石；摇滚乐",
+    "unit": 6,
+    "page": 96,
+    "exampleSentence": "The climber sat on a large rock.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "gas",
+    "phonetic": "/ɡæs/",
+    "meaning": "气体；天然气",
+    "unit": 6,
+    "page": 96,
+    "exampleSentence": "Oxygen is a gas we need to breathe.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "inside",
+    "phonetic": "/ˌɪnˈsaɪd/",
+    "meaning": "在（或向）里面; 在（或向）……里",
+    "unit": 6,
+    "page": 96,
+    "exampleSentence": "It is warm inside the house.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "least",
+    "phonetic": "/liːst/",
+    "meaning": "最少；最小",
+    "unit": 6,
+    "page": 97,
+    "exampleSentence": "This is the least expensive option.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "power",
+    "phonetic": "/ˈpaʊə(r)/",
+    "meaning": "能量；控制力；影响力；电力供应",
+    "unit": 6,
+    "page": 97,
+    "exampleSentence": "The engine has a lot of power.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "mainly",
+    "phonetic": "/ˈmeɪnli/",
+    "meaning": "主要地；首要地",
+    "unit": 6,
+    "page": 97,
+    "exampleSentence": "The diet consists mainly of vegetables.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "neither",
+    "phonetic": "/ˈniːðə(r)/; /ˈnaɪðər/",
+    "meaning": "也不; 两者都不",
+    "unit": 6,
+    "page": 97,
+    "exampleSentence": "Neither answer is correct.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "nor",
+    "phonetic": "/nɔː(r)/",
+    "meaning": "也不",
+    "unit": 6,
+    "page": 97,
+    "exampleSentence": "He can neither read nor write.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "distance",
+    "phonetic": "/ˈdɪstəns/",
+    "meaning": "距离",
+    "unit": 6,
+    "page": 98,
+    "exampleSentence": "The distance between the two towns is 10 miles.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "minus",
+    "phonetic": "/ˈmaɪnəs/",
+    "meaning": "零下",
+    "unit": 6,
+    "page": 99,
+    "exampleSentence": "The temperature is minus five degrees.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "survive",
+    "phonetic": "/səˈvaɪv/; /sərˈvaɪv/",
+    "meaning": "生存；存活；幸存",
+    "unit": 6,
+    "page": 99,
+    "exampleSentence": "Plants need water to survive.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "alive",
+    "phonetic": "/əˈlaɪv/",
+    "meaning": "活着；在世",
+    "unit": 6,
+    "page": 99,
+    "exampleSentence": "He was lucky to be alive after the accident.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "responsibility",
+    "phonetic": "/rɪˌspɒnsəˈbɪləti/; /rɪˌspɑːnsəˈbɪləti/",
+    "meaning": "责任；负责",
+    "unit": 6,
+    "page": 100,
+    "exampleSentence": "It is your responsibility to finish the work.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "related",
+    "phonetic": "/rɪˈleɪtɪd/",
+    "meaning": "相关的；有联系的",
+    "unit": 6,
+    "page": 100,
+    "exampleSentence": "The two events are related.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "exploration",
+    "phonetic": "/ˌekspləˈreɪʃn/",
+    "meaning": "探索；勘探",
+    "unit": 6,
+    "page": 100,
+    "exampleSentence": "Space exploration is exciting.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "development",
+    "phonetic": "/dɪˈveləpmənt/",
+    "meaning": "发展；开发",
+    "unit": 6,
+    "page": 100,
+    "exampleSentence": "The development of new technology is fast.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "industry",
+    "phonetic": "/ˈɪndəstri/",
+    "meaning": "工业；生产制造",
+    "unit": 6,
+    "page": 100,
+    "exampleSentence": "The car industry is very big.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "fill",
+    "phonetic": "/fɪl/",
+    "meaning": "（使）充满",
+    "unit": 6,
+    "page": 100,
+    "exampleSentence": "Please fill the glass with water.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "due",
+    "phonetic": "/djuː/; /duː/",
+    "meaning": "由于；因为",
+    "unit": 6,
+    "page": 100,
+    "exampleSentence": "The game was cancelled due to rain.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "death",
+    "phonetic": "/deθ/",
+    "meaning": "死；死亡",
+    "unit": 6,
+    "page": 101,
+    "exampleSentence": "His death was a great loss.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "valley",
+    "phonetic": "/ˈvæli/",
+    "meaning": "山谷",
+    "unit": 6,
+    "page": 101,
+    "exampleSentence": "The river flows through the valley.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "rainfall",
+    "phonetic": "/ˈreɪnfɔːl/",
+    "meaning": "降雨量；下雨",
+    "unit": 6,
+    "page": 101,
+    "exampleSentence": "The annual rainfall is high in this area.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "low",
+    "phonetic": "/ləʊ/",
+    "meaning": "低的",
+    "unit": 6,
+    "page": 101,
+    "exampleSentence": "The wall is too low to keep the dog in.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "rise",
+    "phonetic": "/raɪz/",
+    "meaning": "升起；上升",
+    "unit": 6,
+    "page": 102,
+    "exampleSentence": "The sun rises in the morning.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "although",
+    "phonetic": "/ɔːlˈðəʊ/",
+    "meaning": "虽然；尽管；即便",
+    "unit": 6,
+    "page": 103,
+    "exampleSentence": "Although it rained, we enjoyed the trip.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "common",
+    "phonetic": "/ˈkɒmən/; /ˈkɑːmən/",
+    "meaning": "公地; 共有的，共同的；普遍的",
+    "unit": 6,
+    "page": 103,
+    "exampleSentence": "It is a common mistake.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "file",
+    "phonetic": "/faɪl/",
+    "meaning": "档案；卷宗；文件夹",
+    "unit": 6,
+    "page": 105,
+    "exampleSentence": "He kept the document in a file.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "born",
+    "phonetic": "/bɔːn/; /bɔːrn/",
+    "meaning": "出生",
+    "unit": 6,
+    "page": 106,
+    "exampleSentence": "She was born in London.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "publish",
+    "phonetic": "/ˈpʌblɪʃ/",
+    "meaning": "（使）发表；出版",
+    "unit": 6,
+    "page": 106,
+    "exampleSentence": "The book will be published next month.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "prove",
+    "phonetic": "/pruːv/",
+    "meaning": "证明；证实",
+    "unit": 6,
+    "page": 106,
+    "exampleSentence": "Can you prove your theory?",
+    "difficulty": "basic"
+  },
+  {
+    "word": "strange",
+    "phonetic": "/streɪndʒ/",
+    "meaning": "奇怪的；奇特的",
+    "unit": 6,
+    "page": 106,
+    "exampleSentence": "That's a very strange noise.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "comet",
+    "phonetic": "/ˈkɒmɪt/; /ˈkɑːmɪt/",
+    "meaning": "彗星",
+    "unit": 6,
+    "page": 106,
+    "exampleSentence": "Halley's Comet appears every 76 years.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "snowball",
+    "phonetic": "/ˈsnəʊbɔːl/",
+    "meaning": "雪球",
+    "unit": 6,
+    "page": 106,
+    "exampleSentence": "The children threw snowballs at each other.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "Pluto",
+    "phonetic": "/ˈpluːtəʊ/",
+    "meaning": "冥王星",
+    "unit": 6,
+    "page": 107,
+    "exampleSentence": "Pluto is a dwarf planet.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "freeze",
+    "phonetic": "/friːz/",
+    "meaning": "（使）冻结，结冰",
+    "unit": 6,
+    "page": 107,
+    "exampleSentence": "Water will freeze at zero degrees.",
+    "difficulty": "basic"
+  },
+  {
+    "word": "being",
+    "phonetic": "/ˈbiːɪŋ/",
+    "meaning": "生物；存在",
+    "unit": 6,
+    "page": 107,
+    "exampleSentence": "Every human being deserves respect.",
+    "difficulty": "basic"
+  }
+]
