@@ -1,12 +1,14 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import useSpeech from '../hooks/useSpeech';
 import { generateLetterPuzzle, getHint, checkAnswer } from '../utils/wordHelpers';
+
+const TIMEOUT_SECONDS = 30;
 
 /**
  * LetterPuzzle Component - Mode 3: Fill in the missing letters
  */
 const LetterPuzzle = ({ words: initialWords, onComplete }) => {
-  const [words, setWords] = useState(initialWords.map(w => ({ ...w, retryCount: 0 })));
+  const [words, setWords] = useState(initialWords.map(w => ({ ...w, retryCount: 0, hintRetryCount: 0 })));
   const [currentIndex, setCurrentIndex] = useState(0);
   const [puzzle, setPuzzle] = useState('');
   const [userInput, setUserInput] = useState('');
@@ -14,9 +16,36 @@ const LetterPuzzle = ({ words: initialWords, onComplete }) => {
   const [isCorrect, setIsCorrect] = useState(null);
   const [results, setResults] = useState([]);
   const [hintsUsed, setHintsUsed] = useState(0);
+  const [elapsedTime, setElapsedTime] = useState(0);
+  const [isTimeout, setIsTimeout] = useState(false);
+  const timerRef = useRef(null);
   const { speak } = useSpeech();
 
   const currentWord = words[currentIndex];
+
+  // Timer effect
+  useEffect(() => {
+    if (!showAnswer && currentWord) {
+      setElapsedTime(0);
+      setIsTimeout(false);
+      timerRef.current = setInterval(() => {
+        setElapsedTime(prev => {
+          const newTime = prev + 1;
+          if (newTime >= TIMEOUT_SECONDS) {
+            setIsTimeout(true);
+          }
+          return newTime;
+        });
+      }, 1000);
+    }
+
+    return () => {
+      if (timerRef.current) {
+        clearInterval(timerRef.current);
+      }
+    };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [currentIndex, showAnswer]);
 
   useEffect(() => {
     if (currentWord) {
@@ -43,6 +72,11 @@ const LetterPuzzle = ({ words: initialWords, onComplete }) => {
     e.preventDefault();
     if (!userInput.trim()) return;
 
+    // Stop the timer
+    if (timerRef.current) {
+      clearInterval(timerRef.current);
+    }
+
     const correct = checkAnswer(userInput, currentWord.word);
     setIsCorrect(correct);
     setShowAnswer(true);
@@ -52,20 +86,33 @@ const LetterPuzzle = ({ words: initialWords, onComplete }) => {
       word: currentWord.word,
       correct: correct,
       userAnswer: userInput,
-      hintsUsed: hintsUsed
+      hintsUsed: hintsUsed,
+      timeout: isTimeout
     }]);
   };
 
   const handleNext = () => {
+    let updatedWords = [...words];
+    let needsUpdate = false;
+
     // If answer was wrong and hasn't been retried yet, insert it again later
     if (!isCorrect && currentWord.retryCount === 0) {
-      const insertPosition = Math.min(currentIndex + 3, words.length);
-      const updatedWords = [...words];
-      updatedWords.splice(insertPosition, 0, { ...currentWord, retryCount: 1 });
+      const insertPosition = Math.min(currentIndex + 3, updatedWords.length);
+      updatedWords.splice(insertPosition, 0, { ...currentWord, retryCount: 1, hintRetryCount: currentWord.hintRetryCount });
+      needsUpdate = true;
+    }
+    // If hints were used and hasn't been retried for hints yet, insert it again later
+    else if (hintsUsed > 0 && currentWord.hintRetryCount === 0 && isCorrect) {
+      const insertPosition = Math.min(currentIndex + 4, updatedWords.length);
+      updatedWords.splice(insertPosition, 0, { ...currentWord, retryCount: currentWord.retryCount, hintRetryCount: 1 });
+      needsUpdate = true;
+    }
+
+    if (needsUpdate) {
       setWords(updatedWords);
     }
 
-    if (currentIndex < words.length - 1) {
+    if (currentIndex < (needsUpdate ? updatedWords.length : words.length) - 1) {
       setCurrentIndex(currentIndex + 1);
       setUserInput('');
       setShowAnswer(false);
@@ -79,11 +126,17 @@ const LetterPuzzle = ({ words: initialWords, onComplete }) => {
   };
 
   const handleSkip = () => {
+    // Stop the timer
+    if (timerRef.current) {
+      clearInterval(timerRef.current);
+    }
+
     setResults([...results, {
       word: currentWord.word,
       correct: false,
       userAnswer: userInput || '(skipped)',
-      hintsUsed: hintsUsed
+      hintsUsed: hintsUsed,
+      timeout: isTimeout
     }]);
     handleNext();
   };
@@ -127,6 +180,14 @@ const LetterPuzzle = ({ words: initialWords, onComplete }) => {
             💡 提示 ({hintsUsed} 次)
           </button>
         </div>
+
+        {!showAnswer && (
+          <div className={`timer-display ${isTimeout ? 'timeout' : ''}`}>
+            <span className="timer-icon">⏱️</span>
+            <span className="timer-text">{elapsedTime}秒</span>
+            {isTimeout && <span className="timeout-warning">超时警告！请加快速度</span>}
+          </div>
+        )}
 
         {!showAnswer ? (
           <form onSubmit={handleSubmit} className="input-form">

@@ -126,18 +126,42 @@ export const filterWordsByUnit = (words, unit) => {
 
 /**
  * Calculate learning statistics
- * @param {Array} results - Array of {word, correct} objects
+ * @param {Array} results - Array of {word, correct, hintsUsed, timeout} objects
  * @returns {Object} - Statistics object
  */
 export const calculateStats = (results) => {
   const total = results.length;
-  const correct = results.filter(r => r.correct).length;
-  const accuracy = total > 0 ? Math.round((correct / total) * 100) : 0;
+
+  // 使用了提示的题目数量
+  const withHints = results.filter(r => r.hintsUsed && r.hintsUsed > 0).length;
+
+  // 超时的题目数量
+  const timeoutCount = results.filter(r => r.timeout).length;
+
+  // 总提示使用次数
+  const totalHintsUsed = results.reduce((sum, r) => sum + (r.hintsUsed || 0), 0);
+
+  // 不使用提示且正确的题目数量（用于计算准确率）
+  const correctWithoutHints = results.filter(r => r.correct && (!r.hintsUsed || r.hintsUsed === 0)).length;
+
+  // 所有正确的题目数量（包括使用提示的）
+  const allCorrect = results.filter(r => r.correct).length;
+
+  // 没有使用提示的题目数量（用于计算准确率的基数）
+  const withoutHints = results.filter(r => !r.hintsUsed || r.hintsUsed === 0).length;
+
+  // 准确率只计算没有使用提示的题目
+  const accuracy = withoutHints > 0 ? Math.round((correctWithoutHints / withoutHints) * 100) : 0;
 
   return {
     total,
-    correct,
-    incorrect: total - correct,
-    accuracy
+    correct: allCorrect,
+    incorrect: total - allCorrect,
+    accuracy,
+    withHints,
+    withoutHints,
+    correctWithoutHints,
+    totalHintsUsed,
+    timeoutCount
   };
 };

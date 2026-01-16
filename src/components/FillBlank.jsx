@@ -1,5 +1,7 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { createBlankSentence, generateWrongOptions, shuffleArray, checkAnswer } from '../utils/wordHelpers';
+
+const TIMEOUT_SECONDS = 30;
 
 /**
  * FillBlank Component - Mode 2: Fill in the blank in a sentence
@@ -12,8 +14,35 @@ const FillBlank = ({ words: initialWords, onComplete }) => {
   const [isCorrect, setIsCorrect] = useState(null);
   const [results, setResults] = useState([]);
   const [options, setOptions] = useState([]);
+  const [elapsedTime, setElapsedTime] = useState(0);
+  const [isTimeout, setIsTimeout] = useState(false);
+  const timerRef = useRef(null);
 
   const currentWord = words[currentIndex];
+
+  // Timer effect
+  useEffect(() => {
+    if (!showAnswer && currentWord) {
+      setElapsedTime(0);
+      setIsTimeout(false);
+      timerRef.current = setInterval(() => {
+        setElapsedTime(prev => {
+          const newTime = prev + 1;
+          if (newTime >= TIMEOUT_SECONDS) {
+            setIsTimeout(true);
+          }
+          return newTime;
+        });
+      }, 1000);
+    }
+
+    return () => {
+      if (timerRef.current) {
+        clearInterval(timerRef.current);
+      }
+    };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [currentIndex, showAnswer]);
 
   useEffect(() => {
     if (currentWord) {
@@ -33,6 +62,11 @@ const FillBlank = ({ words: initialWords, onComplete }) => {
   const handleSubmit = () => {
     if (!selectedAnswer) return;
 
+    // Stop the timer
+    if (timerRef.current) {
+      clearInterval(timerRef.current);
+    }
+
     const correct = checkAnswer(selectedAnswer, currentWord.word);
     setIsCorrect(correct);
     setShowAnswer(true);
@@ -41,7 +75,9 @@ const FillBlank = ({ words: initialWords, onComplete }) => {
     setResults([...results, {
       word: currentWord.word,
       correct: correct,
-      userAnswer: selectedAnswer
+      userAnswer: selectedAnswer,
+      timeout: isTimeout,
+      hintsUsed: 0
     }]);
   };
 
@@ -68,10 +104,17 @@ const FillBlank = ({ words: initialWords, onComplete }) => {
   };
 
   const handleSkip = () => {
+    // Stop the timer
+    if (timerRef.current) {
+      clearInterval(timerRef.current);
+    }
+
     setResults([...results, {
       word: currentWord.word,
       correct: false,
-      userAnswer: '(skipped)'
+      userAnswer: '(skipped)',
+      timeout: isTimeout,
+      hintsUsed: 0
     }]);
     handleNext();
   };
@@ -97,6 +140,14 @@ const FillBlank = ({ words: initialWords, onComplete }) => {
         <div className="sentence-display">
           <p className="sentence">{blankSentence}</p>
         </div>
+
+        {!showAnswer && (
+          <div className={`timer-display ${isTimeout ? 'timeout' : ''}`}>
+            <span className="timer-icon">⏱️</span>
+            <span className="timer-text">{elapsedTime}秒</span>
+            {isTimeout && <span className="timeout-warning">超时警告！请加快速度</span>}
+          </div>
+        )}
 
         {!showAnswer ? (
           <div className="options-section">

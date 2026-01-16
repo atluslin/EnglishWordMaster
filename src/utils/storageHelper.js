@@ -3,7 +3,6 @@
  */
 
 const HISTORY_KEY = 'vocabulary_learning_history';
-const MAX_HISTORY_ITEMS = 50;
 
 /**
  * Get learning history from localStorage
@@ -35,10 +34,8 @@ export const saveToHistory = (session) => {
     // Add new session at the beginning
     history.unshift(newSession);
 
-    // Keep only the most recent sessions
-    const trimmedHistory = history.slice(0, MAX_HISTORY_ITEMS);
-
-    localStorage.setItem(HISTORY_KEY, JSON.stringify(trimmedHistory));
+    // 保存所有历史记录（不再限制数量）
+    localStorage.setItem(HISTORY_KEY, JSON.stringify(history));
   } catch (error) {
     console.error('Error saving to history:', error);
   }

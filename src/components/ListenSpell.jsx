@@ -1,6 +1,8 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import useSpeech from '../hooks/useSpeech';
 import { checkAnswer } from '../utils/wordHelpers';
+
+const TIMEOUT_SECONDS = 30;
 
 /**
  * ListenSpell Component - Mode 1: Listen to word and type the spelling
@@ -12,9 +14,36 @@ const ListenSpell = ({ words: initialWords, onComplete }) => {
   const [showAnswer, setShowAnswer] = useState(false);
   const [isCorrect, setIsCorrect] = useState(null);
   const [results, setResults] = useState([]);
+  const [elapsedTime, setElapsedTime] = useState(0);
+  const [isTimeout, setIsTimeout] = useState(false);
+  const timerRef = useRef(null);
   const { speak, isSpeaking, isSupported } = useSpeech();
 
   const currentWord = words[currentIndex];
+
+  // Timer effect
+  useEffect(() => {
+    if (!showAnswer && currentWord) {
+      setElapsedTime(0);
+      setIsTimeout(false);
+      timerRef.current = setInterval(() => {
+        setElapsedTime(prev => {
+          const newTime = prev + 1;
+          if (newTime >= TIMEOUT_SECONDS) {
+            setIsTimeout(true);
+          }
+          return newTime;
+        });
+      }, 1000);
+    }
+
+    return () => {
+      if (timerRef.current) {
+        clearInterval(timerRef.current);
+      }
+    };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [currentIndex, showAnswer]);
 
   useEffect(() => {
     // Auto-play when a new word is shown
@@ -34,6 +63,11 @@ const ListenSpell = ({ words: initialWords, onComplete }) => {
     e.preventDefault();
     if (!userInput.trim()) return;
 
+    // Stop the timer
+    if (timerRef.current) {
+      clearInterval(timerRef.current);
+    }
+
     const correct = checkAnswer(userInput, currentWord.word);
     setIsCorrect(correct);
     setShowAnswer(true);
@@ -42,7 +76,9 @@ const ListenSpell = ({ words: initialWords, onComplete }) => {
     setResults([...results, {
       word: currentWord.word,
       correct: correct,
-      userAnswer: userInput
+      userAnswer: userInput,
+      timeout: isTimeout,
+      hintsUsed: 0
     }]);
   };
 
@@ -69,10 +105,17 @@ const ListenSpell = ({ words: initialWords, onComplete }) => {
   };
 
   const handleSkip = () => {
+    // Stop the timer
+    if (timerRef.current) {
+      clearInterval(timerRef.current);
+    }
+
     setResults([...results, {
       word: currentWord.word,
       correct: false,
-      userAnswer: userInput || '(skipped)'
+      userAnswer: userInput || '(skipped)',
+      timeout: isTimeout,
+      hintsUsed: 0
     }]);
     handleNext();
   };
@@ -112,6 +155,14 @@ const ListenSpell = ({ words: initialWords, onComplete }) => {
             {isSpeaking ? '播放中...' : '🔊 播放发音'}
           </button>
         </div>
+
+        {!showAnswer && (
+          <div className={`timer-display ${isTimeout ? 'timeout' : ''}`}>
+            <span className="timer-icon">⏱️</span>
+            <span className="timer-text">{elapsedTime}秒</span>
+            {isTimeout && <span className="timeout-warning">超时警告！请加快速度</span>}
+          </div>
+        )}
 
         {!showAnswer ? (
           <form onSubmit={handleSubmit} className="input-form">
